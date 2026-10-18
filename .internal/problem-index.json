@@ -1,0 +1,16 @@
+[
+  {
+    "folderId": "leetcode/0004-median-of-two-sorted-arrays",
+    "frontendId": "4",
+    "title": "Median of Two Sorted Arrays",
+    "slug": "median-of-two-sorted-arrays",
+    "difficulty": "Hard",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-18T12:57:24.816Z"
+  }
+]
