@@ -12,5 +12,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-18T12:57:24.816Z"
+  },
+  {
+    "folderId": "leetcode/0005-longest-palindromic-substring",
+    "frontendId": "5",
+    "title": "Longest Palindromic Substring",
+    "slug": "longest-palindromic-substring",
+    "difficulty": "Medium",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming",
+      "Manacher"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-19T06:19:30.182Z"
   }
 ]

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**1** problems solved — 0 Easy · 0 Medium · 1 Hard
+**2** problems solved — 0 Easy · 1 Medium · 1 Hard
 
 ## Contents
 
@@ -15,6 +15,7 @@
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
 | 0004 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Hard | Array, Binary Search, Divide and Conquer |
+| 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium | Two Pointers, String, Dynamic Programming, Manacher |
 
 ## By Difficulty
 
@@ -22,9 +23,11 @@
 
 _No problems solved yet._
 
-### Medium (0)
+### Medium (1)
 
-_No problems solved yet._
+| # | Title | Topics |
+| --- | --- | --- |
+| 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Two Pointers, String, Dynamic Programming, Manacher |
 
 ### Hard (1)
 
@@ -61,14 +64,51 @@ _No problems solved yet._
 
 </details>
 
+<details>
+<summary>Dynamic Programming (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Manacher (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>String (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Two Pointers (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium |
+
+</details>
+
 ## By Language
 
 <details>
-<summary>python3 (1)</summary>
+<summary>python3 (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0004 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Hard |
+| 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium |
 
 </details>
 
@@ -76,4 +116,5 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium | 2026-10-19 |
 | 0004 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Hard | 2026-10-18 |

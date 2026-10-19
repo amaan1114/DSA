@@ -7,5 +7,17 @@
   ],
   "Divide and Conquer": [
     "leetcode/0004-median-of-two-sorted-arrays"
+  ],
+  "Two Pointers": [
+    "leetcode/0005-longest-palindromic-substring"
+  ],
+  "String": [
+    "leetcode/0005-longest-palindromic-substring"
+  ],
+  "Dynamic Programming": [
+    "leetcode/0005-longest-palindromic-substring"
+  ],
+  "Manacher": [
+    "leetcode/0005-longest-palindromic-substring"
   ]
 }

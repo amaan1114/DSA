@@ -1,5 +1,6 @@
 {
   "python3": [
-    "leetcode/0004-median-of-two-sorted-arrays"
+    "leetcode/0004-median-of-two-sorted-arrays",
+    "leetcode/0005-longest-palindromic-substring"
   ]
 }
