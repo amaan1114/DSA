@@ -19,5 +19,8 @@
   ],
   "Manacher": [
     "leetcode/0005-longest-palindromic-substring"
+  ],
+  "Math": [
+    "leetcode/0007-reverse-integer"
   ]
 }

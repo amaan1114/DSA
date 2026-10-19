@@ -1,0 +1,20 @@
+{
+  "platform": "leetcode",
+  "problemId": "7",
+  "frontendId": "7",
+  "title": "Reverse Integer",
+  "slug": "reverse-integer",
+  "difficulty": "Medium",
+  "topics": [
+    "Math"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "1 ms",
+  "memory": "19.2 MB",
+  "submissionId": "2175967376",
+  "acceptedAt": "2026-10-19T06:29:33.328Z",
+  "updatedAt": "2026-10-19T06:29:34.871Z",
+  "url": "https://leetcode.com/problems/reverse-integer/",
+  "version": 1
+}
