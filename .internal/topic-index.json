@@ -22,5 +22,17 @@
   ],
   "Math": [
     "leetcode/0007-reverse-integer"
+  ],
+  "Tree": [
+    "leetcode/1448-count-good-nodes-in-binary-tree"
+  ],
+  "Depth-First Search": [
+    "leetcode/1448-count-good-nodes-in-binary-tree"
+  ],
+  "Breadth-First Search": [
+    "leetcode/1448-count-good-nodes-in-binary-tree"
+  ],
+  "Binary Tree": [
+    "leetcode/1448-count-good-nodes-in-binary-tree"
   ]
 }

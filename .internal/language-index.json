@@ -2,6 +2,7 @@
   "python3": [
     "leetcode/0004-median-of-two-sorted-arrays",
     "leetcode/0005-longest-palindromic-substring",
-    "leetcode/0007-reverse-integer"
+    "leetcode/0007-reverse-integer",
+    "leetcode/1448-count-good-nodes-in-binary-tree"
   ]
 }
