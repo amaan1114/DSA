@@ -1,6 +1,7 @@
 {
   "Array": [
-    "leetcode/0004-median-of-two-sorted-arrays"
+    "leetcode/0004-median-of-two-sorted-arrays",
+    "leetcode/0011-container-with-most-water"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays"
@@ -9,7 +10,8 @@
     "leetcode/0004-median-of-two-sorted-arrays"
   ],
   "Two Pointers": [
-    "leetcode/0005-longest-palindromic-substring"
+    "leetcode/0005-longest-palindromic-substring",
+    "leetcode/0011-container-with-most-water"
   ],
   "String": [
     "leetcode/0005-longest-palindromic-substring"
@@ -34,5 +36,8 @@
   ],
   "Binary Tree": [
     "leetcode/1448-count-good-nodes-in-binary-tree"
+  ],
+  "Greedy": [
+    "leetcode/0011-container-with-most-water"
   ]
 }
