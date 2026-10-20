@@ -1,7 +1,8 @@
 {
   "Array": [
     "leetcode/0004-median-of-two-sorted-arrays",
-    "leetcode/0011-container-with-most-water"
+    "leetcode/0011-container-with-most-water",
+    "leetcode/0994-rotting-oranges"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays"
@@ -32,12 +33,16 @@
     "leetcode/1448-count-good-nodes-in-binary-tree"
   ],
   "Breadth-First Search": [
-    "leetcode/1448-count-good-nodes-in-binary-tree"
+    "leetcode/1448-count-good-nodes-in-binary-tree",
+    "leetcode/0994-rotting-oranges"
   ],
   "Binary Tree": [
     "leetcode/1448-count-good-nodes-in-binary-tree"
   ],
   "Greedy": [
     "leetcode/0011-container-with-most-water"
+  ],
+  "Matrix": [
+    "leetcode/0994-rotting-oranges"
   ]
 }
