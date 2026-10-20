@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**6** problems solved — 0 Easy · 5 Medium · 1 Hard
+**7** problems solved — 0 Easy · 6 Medium · 1 Hard
 
 ## Contents
 
@@ -18,6 +18,7 @@
 | 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium | Two Pointers, String, Dynamic Programming, Manacher |
 | 0007 | [Reverse Integer](0007-reverse-integer/README.md) | Medium | Math |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | Array, Two Pointers, Greedy |
+| 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | String, Dynamic Programming, Backtracking, Bracket Sequences |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium | Array, Breadth-First Search, Matrix |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 
@@ -27,13 +28,14 @@
 
 _No problems solved yet._
 
-### Medium (5)
+### Medium (6)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Two Pointers, String, Dynamic Programming, Manacher |
 | 0007 | [Reverse Integer](0007-reverse-integer/README.md) | Math |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Array, Two Pointers, Greedy |
+| 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | String, Dynamic Programming, Backtracking, Bracket Sequences |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Array, Breadth-First Search, Matrix |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 
@@ -57,6 +59,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Backtracking (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Binary Search (1)</summary>
 
 | # | Title | Difficulty |
@@ -71,6 +82,15 @@ _No problems solved yet._
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Bracket Sequences (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 
 </details>
 
@@ -103,11 +123,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Dynamic Programming (1)</summary>
+<summary>Dynamic Programming (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium |
+| 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 
 </details>
 
@@ -148,11 +169,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (1)</summary>
+<summary>String (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium |
+| 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 
 </details>
 
@@ -178,7 +200,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (6)</summary>
+<summary>python3 (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -186,6 +208,7 @@ _No problems solved yet._
 | 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium |
 | 0007 | [Reverse Integer](0007-reverse-integer/README.md) | Medium |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
+| 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
 
@@ -195,6 +218,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | 2026-10-20 |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium | 2026-10-20 |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | 2026-10-20 |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium | 2026-10-19 |

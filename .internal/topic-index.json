@@ -15,10 +15,12 @@
     "leetcode/0011-container-with-most-water"
   ],
   "String": [
-    "leetcode/0005-longest-palindromic-substring"
+    "leetcode/0005-longest-palindromic-substring",
+    "leetcode/0022-generate-parentheses"
   ],
   "Dynamic Programming": [
-    "leetcode/0005-longest-palindromic-substring"
+    "leetcode/0005-longest-palindromic-substring",
+    "leetcode/0022-generate-parentheses"
   ],
   "Manacher": [
     "leetcode/0005-longest-palindromic-substring"
@@ -44,5 +46,11 @@
   ],
   "Matrix": [
     "leetcode/0994-rotting-oranges"
+  ],
+  "Backtracking": [
+    "leetcode/0022-generate-parentheses"
+  ],
+  "Bracket Sequences": [
+    "leetcode/0022-generate-parentheses"
   ]
 }

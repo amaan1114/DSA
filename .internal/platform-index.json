@@ -5,6 +5,7 @@
     "leetcode/0007-reverse-integer",
     "leetcode/1448-count-good-nodes-in-binary-tree",
     "leetcode/0011-container-with-most-water",
-    "leetcode/0994-rotting-oranges"
+    "leetcode/0994-rotting-oranges",
+    "leetcode/0022-generate-parentheses"
   ]
 }
