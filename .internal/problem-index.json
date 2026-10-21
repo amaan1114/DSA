@@ -124,5 +124,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-21T04:39:27.948Z"
+  },
+  {
+    "folderId": "leetcode/0040-combination-sum-ii",
+    "frontendId": "40",
+    "title": "Combination Sum II",
+    "slug": "combination-sum-ii",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-21T05:23:53.554Z"
   }
 ]

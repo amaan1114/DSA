@@ -8,6 +8,7 @@
     "leetcode/0994-rotting-oranges",
     "leetcode/0022-generate-parentheses",
     "leetcode/0036-valid-sudoku",
-    "leetcode/0039-combination-sum"
+    "leetcode/0039-combination-sum",
+    "leetcode/0040-combination-sum-ii"
   ]
 }
