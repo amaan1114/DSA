@@ -3,7 +3,8 @@
     "leetcode/0004-median-of-two-sorted-arrays",
     "leetcode/0011-container-with-most-water",
     "leetcode/0994-rotting-oranges",
-    "leetcode/0036-valid-sudoku"
+    "leetcode/0036-valid-sudoku",
+    "leetcode/0039-combination-sum"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays"
@@ -50,7 +51,8 @@
     "leetcode/0036-valid-sudoku"
   ],
   "Backtracking": [
-    "leetcode/0022-generate-parentheses"
+    "leetcode/0022-generate-parentheses",
+    "leetcode/0039-combination-sum"
   ],
   "Bracket Sequences": [
     "leetcode/0022-generate-parentheses"
