@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**7** problems solved — 0 Easy · 6 Medium · 1 Hard
+**8** problems solved — 0 Easy · 7 Medium · 1 Hard
 
 ## Contents
 
@@ -19,6 +19,7 @@
 | 0007 | [Reverse Integer](0007-reverse-integer/README.md) | Medium | Math |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | Array, Two Pointers, Greedy |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | String, Dynamic Programming, Backtracking, Bracket Sequences |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | Array, Hash Table, Matrix |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium | Array, Breadth-First Search, Matrix |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 
@@ -28,7 +29,7 @@
 
 _No problems solved yet._
 
-### Medium (6)
+### Medium (7)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -36,6 +37,7 @@ _No problems solved yet._
 | 0007 | [Reverse Integer](0007-reverse-integer/README.md) | Math |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Array, Two Pointers, Greedy |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | String, Dynamic Programming, Backtracking, Bracket Sequences |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Array, Hash Table, Matrix |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Array, Breadth-First Search, Matrix |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 
@@ -48,12 +50,13 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (3)</summary>
+<summary>Array (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0004 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Hard |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 
 </details>
@@ -142,6 +145,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Hash Table (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Manacher (1)</summary>
 
 | # | Title | Difficulty |
@@ -160,10 +172,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Matrix (1)</summary>
+<summary>Matrix (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 
 </details>
@@ -200,7 +213,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (7)</summary>
+<summary>python3 (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -209,6 +222,7 @@ _No problems solved yet._
 | 0007 | [Reverse Integer](0007-reverse-integer/README.md) | Medium |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
 
@@ -218,6 +232,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | 2026-10-21 |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | 2026-10-20 |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium | 2026-10-20 |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | 2026-10-20 |
