@@ -6,7 +6,8 @@
     "leetcode/0036-valid-sudoku",
     "leetcode/0039-combination-sum",
     "leetcode/0040-combination-sum-ii",
-    "leetcode/0046-permutations"
+    "leetcode/0046-permutations",
+    "leetcode/0048-rotate-image"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays"
@@ -30,7 +31,8 @@
     "leetcode/0005-longest-palindromic-substring"
   ],
   "Math": [
-    "leetcode/0007-reverse-integer"
+    "leetcode/0007-reverse-integer",
+    "leetcode/0048-rotate-image"
   ],
   "Tree": [
     "leetcode/1448-count-good-nodes-in-binary-tree"
@@ -50,7 +52,8 @@
   ],
   "Matrix": [
     "leetcode/0994-rotting-oranges",
-    "leetcode/0036-valid-sudoku"
+    "leetcode/0036-valid-sudoku",
+    "leetcode/0048-rotate-image"
   ],
   "Backtracking": [
     "leetcode/0022-generate-parentheses",
