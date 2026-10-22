@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "46",
+  "frontendId": "46",
+  "title": "Permutations",
+  "slug": "permutations",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Backtracking"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "1 ms",
+  "memory": "19.6 MB",
+  "submissionId": "2178487456",
+  "acceptedAt": "2026-10-22T04:18:37.156Z",
+  "updatedAt": "2026-10-22T04:18:38.123Z",
+  "url": "https://leetcode.com/problems/permutations/",
+  "version": 1
+}

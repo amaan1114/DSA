@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**10** problems solved — 0 Easy · 9 Medium · 1 Hard
+**11** problems solved — 0 Easy · 10 Medium · 1 Hard
 
 ## Contents
 
@@ -22,6 +22,7 @@
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | Array, Hash Table, Matrix |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | Array, Backtracking |
 | 0040 | [Combination Sum II](0040-combination-sum-ii/README.md) | Medium | Array, Backtracking |
+| 0046 | [Permutations](0046-permutations/README.md) | Medium | Array, Backtracking |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium | Array, Breadth-First Search, Matrix |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 
@@ -31,7 +32,7 @@
 
 _No problems solved yet._
 
-### Medium (9)
+### Medium (10)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -42,6 +43,7 @@ _No problems solved yet._
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Array, Hash Table, Matrix |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Array, Backtracking |
 | 0040 | [Combination Sum II](0040-combination-sum-ii/README.md) | Array, Backtracking |
+| 0046 | [Permutations](0046-permutations/README.md) | Array, Backtracking |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Array, Breadth-First Search, Matrix |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 
@@ -54,7 +56,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (6)</summary>
+<summary>Array (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -63,18 +65,20 @@ _No problems solved yet._
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 | 0040 | [Combination Sum II](0040-combination-sum-ii/README.md) | Medium |
+| 0046 | [Permutations](0046-permutations/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 
 </details>
 
 <details>
-<summary>Backtracking (3)</summary>
+<summary>Backtracking (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 | 0040 | [Combination Sum II](0040-combination-sum-ii/README.md) | Medium |
+| 0046 | [Permutations](0046-permutations/README.md) | Medium |
 
 </details>
 
@@ -221,7 +225,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (10)</summary>
+<summary>python3 (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -233,6 +237,7 @@ _No problems solved yet._
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 | 0040 | [Combination Sum II](0040-combination-sum-ii/README.md) | Medium |
+| 0046 | [Permutations](0046-permutations/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
 
@@ -242,6 +247,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0046 | [Permutations](0046-permutations/README.md) | Medium | 2026-10-22 |
 | 0040 | [Combination Sum II](0040-combination-sum-ii/README.md) | Medium | 2026-10-21 |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | 2026-10-21 |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | 2026-10-21 |

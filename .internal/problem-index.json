@@ -137,5 +137,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-21T05:23:53.554Z"
+  },
+  {
+    "folderId": "leetcode/0046-permutations",
+    "frontendId": "46",
+    "title": "Permutations",
+    "slug": "permutations",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-22T04:18:37.156Z"
   }
 ]
