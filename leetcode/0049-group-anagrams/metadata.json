@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "49",
+  "frontendId": "49",
+  "title": "Group Anagrams",
+  "slug": "group-anagrams",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "11 ms",
+  "memory": "22.1 MB",
+  "submissionId": "2178579514",
+  "acceptedAt": "2026-10-22T06:31:23.045Z",
+  "updatedAt": "2026-10-22T06:31:24.326Z",
+  "url": "https://leetcode.com/problems/group-anagrams/",
+  "version": 1
+}

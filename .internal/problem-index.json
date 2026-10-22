@@ -164,5 +164,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-22T04:44:51.549Z"
+  },
+  {
+    "folderId": "leetcode/0049-group-anagrams",
+    "frontendId": "49",
+    "title": "Group Anagrams",
+    "slug": "group-anagrams",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-22T06:31:23.045Z"
   }
 ]
