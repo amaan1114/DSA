@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**13** problems solved — 0 Easy · 12 Medium · 1 Hard
+**14** problems solved — 0 Easy · 13 Medium · 1 Hard
 
 ## Contents
 
@@ -25,6 +25,7 @@
 | 0046 | [Permutations](0046-permutations/README.md) | Medium | Array, Backtracking |
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium | Array, Math, Matrix |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | Array, Hash Table, String, Sorting |
+| 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | Math, Recursion |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium | Array, Breadth-First Search, Matrix |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 
@@ -34,7 +35,7 @@
 
 _No problems solved yet._
 
-### Medium (12)
+### Medium (13)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -48,6 +49,7 @@ _No problems solved yet._
 | 0046 | [Permutations](0046-permutations/README.md) | Array, Backtracking |
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Array, Math, Matrix |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Array, Hash Table, String, Sorting |
+| 0050 | [Pow(x, n)](0050-powx-n/README.md) | Math, Recursion |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Array, Breadth-First Search, Matrix |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 
@@ -182,12 +184,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Math (2)</summary>
+<summary>Math (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0007 | [Reverse Integer](0007-reverse-integer/README.md) | Medium |
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium |
+| 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
 
 </details>
 
@@ -199,6 +202,15 @@ _No problems solved yet._
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Recursion (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
 
 </details>
 
@@ -244,7 +256,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (13)</summary>
+<summary>python3 (14)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -259,6 +271,7 @@ _No problems solved yet._
 | 0046 | [Permutations](0046-permutations/README.md) | Medium |
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
+| 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
 
@@ -268,6 +281,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | 2026-10-23 |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | 2026-10-22 |
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium | 2026-10-22 |
 | 0046 | [Permutations](0046-permutations/README.md) | Medium | 2026-10-22 |

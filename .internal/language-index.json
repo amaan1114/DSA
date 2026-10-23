@@ -12,6 +12,7 @@
     "leetcode/0040-combination-sum-ii",
     "leetcode/0046-permutations",
     "leetcode/0048-rotate-image",
-    "leetcode/0049-group-anagrams"
+    "leetcode/0049-group-anagrams",
+    "leetcode/0050-powx-n"
   ]
 }

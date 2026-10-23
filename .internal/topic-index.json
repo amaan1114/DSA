@@ -34,7 +34,8 @@
   ],
   "Math": [
     "leetcode/0007-reverse-integer",
-    "leetcode/0048-rotate-image"
+    "leetcode/0048-rotate-image",
+    "leetcode/0050-powx-n"
   ],
   "Tree": [
     "leetcode/1448-count-good-nodes-in-binary-tree"
@@ -72,5 +73,8 @@
   ],
   "Sorting": [
     "leetcode/0049-group-anagrams"
+  ],
+  "Recursion": [
+    "leetcode/0050-powx-n"
   ]
 }
