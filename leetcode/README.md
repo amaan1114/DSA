@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**14** problems solved — 0 Easy · 13 Medium · 1 Hard
+**15** problems solved — 1 Easy · 13 Medium · 1 Hard
 
 ## Contents
 
@@ -26,14 +26,17 @@
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium | Array, Math, Matrix |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | Array, Hash Table, String, Sorting |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | Math, Recursion |
+| 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | Tree, Depth-First Search, Binary Tree, DP on Trees |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium | Array, Breadth-First Search, Matrix |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 
 ## By Difficulty
 
-### Easy (0)
+### Easy (1)
 
-_No problems solved yet._
+| # | Title | Topics |
+| --- | --- | --- |
+| 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Tree, Depth-First Search, Binary Tree, DP on Trees |
 
 ### Medium (13)
 
@@ -100,10 +103,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Binary Tree (1)</summary>
+<summary>Binary Tree (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
 
 </details>
@@ -128,10 +132,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Depth-First Search (1)</summary>
+<summary>Depth-First Search (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
 
 </details>
@@ -142,6 +147,15 @@ _No problems solved yet._
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0004 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Hard |
+
+</details>
+
+<details>
+<summary>DP on Trees (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 
 </details>
 
@@ -235,10 +249,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Tree (1)</summary>
+<summary>Tree (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
 
 </details>
@@ -256,7 +271,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (14)</summary>
+<summary>python3 (15)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -272,6 +287,7 @@ _No problems solved yet._
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
+| 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
 
@@ -281,6 +297,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | 2026-10-23 |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | 2026-10-23 |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | 2026-10-22 |
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium | 2026-10-22 |

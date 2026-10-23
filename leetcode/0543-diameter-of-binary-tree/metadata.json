@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "543",
+  "frontendId": "543",
+  "title": "Diameter of Binary Tree",
+  "slug": "diameter-of-binary-tree",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "DP on Trees"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "4 ms",
+  "memory": "21.9 MB",
+  "submissionId": "2179409888",
+  "acceptedAt": "2026-10-23T06:17:19.622Z",
+  "updatedAt": "2026-10-23T06:17:20.594Z",
+  "url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+  "version": 1
+}

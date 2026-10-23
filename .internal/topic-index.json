@@ -38,17 +38,20 @@
     "leetcode/0050-powx-n"
   ],
   "Tree": [
-    "leetcode/1448-count-good-nodes-in-binary-tree"
+    "leetcode/1448-count-good-nodes-in-binary-tree",
+    "leetcode/0543-diameter-of-binary-tree"
   ],
   "Depth-First Search": [
-    "leetcode/1448-count-good-nodes-in-binary-tree"
+    "leetcode/1448-count-good-nodes-in-binary-tree",
+    "leetcode/0543-diameter-of-binary-tree"
   ],
   "Breadth-First Search": [
     "leetcode/1448-count-good-nodes-in-binary-tree",
     "leetcode/0994-rotting-oranges"
   ],
   "Binary Tree": [
-    "leetcode/1448-count-good-nodes-in-binary-tree"
+    "leetcode/1448-count-good-nodes-in-binary-tree",
+    "leetcode/0543-diameter-of-binary-tree"
   ],
   "Greedy": [
     "leetcode/0011-container-with-most-water"
@@ -76,5 +79,8 @@
   ],
   "Recursion": [
     "leetcode/0050-powx-n"
+  ],
+  "DP on Trees": [
+    "leetcode/0543-diameter-of-binary-tree"
   ]
 }
