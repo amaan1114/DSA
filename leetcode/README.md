@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**16** problems solved — 1 Easy · 14 Medium · 1 Hard
+**17** problems solved — 1 Easy · 15 Medium · 1 Hard
 
 ## Contents
 
@@ -22,6 +22,7 @@
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | Array, Hash Table, Matrix |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | Array, Backtracking |
 | 0040 | [Combination Sum II](0040-combination-sum-ii/README.md) | Medium | Array, Backtracking |
+| 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium | Array, Dynamic Programming, Greedy |
 | 0046 | [Permutations](0046-permutations/README.md) | Medium | Array, Backtracking |
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium | Array, Math, Matrix |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | Array, Hash Table, String, Sorting |
@@ -39,7 +40,7 @@
 | --- | --- | --- |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Tree, Depth-First Search, Binary Tree, DP on Trees |
 
-### Medium (14)
+### Medium (15)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -50,6 +51,7 @@
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Array, Hash Table, Matrix |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Array, Backtracking |
 | 0040 | [Combination Sum II](0040-combination-sum-ii/README.md) | Array, Backtracking |
+| 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Array, Dynamic Programming, Greedy |
 | 0046 | [Permutations](0046-permutations/README.md) | Array, Backtracking |
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Array, Math, Matrix |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Array, Hash Table, String, Sorting |
@@ -67,7 +69,7 @@
 ## By Topic
 
 <details>
-<summary>Array (10)</summary>
+<summary>Array (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -76,6 +78,7 @@
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 | 0040 | [Combination Sum II](0040-combination-sum-ii/README.md) | Medium |
+| 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium |
 | 0046 | [Permutations](0046-permutations/README.md) | Medium |
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
@@ -163,22 +166,24 @@
 </details>
 
 <details>
-<summary>Dynamic Programming (3)</summary>
+<summary>Dynamic Programming (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
+| 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 
 </details>
 
 <details>
-<summary>Greedy (2)</summary>
+<summary>Greedy (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
+| 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 
 </details>
@@ -276,7 +281,7 @@
 ## By Language
 
 <details>
-<summary>python3 (16)</summary>
+<summary>python3 (17)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -288,6 +293,7 @@
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 | 0040 | [Combination Sum II](0040-combination-sum-ii/README.md) | Medium |
+| 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium |
 | 0046 | [Permutations](0046-permutations/README.md) | Medium |
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
@@ -303,6 +309,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium | 2026-10-24 |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | 2026-10-24 |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | 2026-10-23 |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | 2026-10-23 |
@@ -317,4 +324,3 @@
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | 2026-10-20 |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium | 2026-10-19 |
 | 0007 | [Reverse Integer](0007-reverse-integer/README.md) | Medium | 2026-10-19 |
-| 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium | 2026-10-19 |

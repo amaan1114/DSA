@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "45",
+  "frontendId": "45",
+  "title": "Jump Game II",
+  "slug": "jump-game-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "3 ms",
+  "memory": "20.1 MB",
+  "submissionId": "2180242789",
+  "acceptedAt": "2026-10-24T07:30:32.179Z",
+  "updatedAt": "2026-10-24T07:30:33.092Z",
+  "url": "https://leetcode.com/problems/jump-game-ii/",
+  "version": 1
+}

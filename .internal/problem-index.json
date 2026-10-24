@@ -221,5 +221,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-24T07:01:19.491Z"
+  },
+  {
+    "folderId": "leetcode/0045-jump-game-ii",
+    "frontendId": "45",
+    "title": "Jump Game II",
+    "slug": "jump-game-ii",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-24T07:30:32.179Z"
   }
 ]

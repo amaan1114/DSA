@@ -15,6 +15,7 @@
     "leetcode/0049-group-anagrams",
     "leetcode/0050-powx-n",
     "leetcode/0543-diameter-of-binary-tree",
-    "leetcode/0055-jump-game"
+    "leetcode/0055-jump-game",
+    "leetcode/0045-jump-game-ii"
   ]
 }
