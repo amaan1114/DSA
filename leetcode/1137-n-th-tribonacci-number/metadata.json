@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "1236",
+  "frontendId": "1137",
+  "title": "N-th Tribonacci Number",
+  "slug": "n-th-tribonacci-number",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Memoization"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19.1 MB",
+  "submissionId": "2180250428",
+  "acceptedAt": "2026-10-24T07:44:04.207Z",
+  "updatedAt": "2026-10-24T07:44:05.056Z",
+  "url": "https://leetcode.com/problems/n-th-tribonacci-number/",
+  "version": 1
+}

@@ -235,5 +235,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-24T07:30:32.179Z"
+  },
+  {
+    "folderId": "leetcode/1137-n-th-tribonacci-number",
+    "frontendId": "1137",
+    "title": "N-th Tribonacci Number",
+    "slug": "n-th-tribonacci-number",
+    "difficulty": "Easy",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-24T07:44:04.207Z"
   }
 ]

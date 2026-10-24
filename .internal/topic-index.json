@@ -31,7 +31,8 @@
     "leetcode/0005-longest-palindromic-substring",
     "leetcode/0022-generate-parentheses",
     "leetcode/0055-jump-game",
-    "leetcode/0045-jump-game-ii"
+    "leetcode/0045-jump-game-ii",
+    "leetcode/1137-n-th-tribonacci-number"
   ],
   "Manacher": [
     "leetcode/0005-longest-palindromic-substring"
@@ -39,7 +40,8 @@
   "Math": [
     "leetcode/0007-reverse-integer",
     "leetcode/0048-rotate-image",
-    "leetcode/0050-powx-n"
+    "leetcode/0050-powx-n",
+    "leetcode/1137-n-th-tribonacci-number"
   ],
   "Tree": [
     "leetcode/1448-count-good-nodes-in-binary-tree",
@@ -88,5 +90,8 @@
   ],
   "DP on Trees": [
     "leetcode/0543-diameter-of-binary-tree"
+  ],
+  "Memoization": [
+    "leetcode/1137-n-th-tribonacci-number"
   ]
 }
