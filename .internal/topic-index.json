@@ -8,7 +8,8 @@
     "leetcode/0040-combination-sum-ii",
     "leetcode/0046-permutations",
     "leetcode/0048-rotate-image",
-    "leetcode/0049-group-anagrams"
+    "leetcode/0049-group-anagrams",
+    "leetcode/0055-jump-game"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays"
@@ -27,7 +28,8 @@
   ],
   "Dynamic Programming": [
     "leetcode/0005-longest-palindromic-substring",
-    "leetcode/0022-generate-parentheses"
+    "leetcode/0022-generate-parentheses",
+    "leetcode/0055-jump-game"
   ],
   "Manacher": [
     "leetcode/0005-longest-palindromic-substring"
@@ -54,7 +56,8 @@
     "leetcode/0543-diameter-of-binary-tree"
   ],
   "Greedy": [
-    "leetcode/0011-container-with-most-water"
+    "leetcode/0011-container-with-most-water",
+    "leetcode/0055-jump-game"
   ],
   "Matrix": [
     "leetcode/0994-rotting-oranges",

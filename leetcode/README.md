@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**15** problems solved — 1 Easy · 13 Medium · 1 Hard
+**16** problems solved — 1 Easy · 14 Medium · 1 Hard
 
 ## Contents
 
@@ -26,6 +26,7 @@
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium | Array, Math, Matrix |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | Array, Hash Table, String, Sorting |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | Math, Recursion |
+| 0055 | [Jump Game](0055-jump-game/README.md) | Medium | Array, Dynamic Programming, Greedy |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | Tree, Depth-First Search, Binary Tree, DP on Trees |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium | Array, Breadth-First Search, Matrix |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
@@ -38,7 +39,7 @@
 | --- | --- | --- |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Tree, Depth-First Search, Binary Tree, DP on Trees |
 
-### Medium (13)
+### Medium (14)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -53,6 +54,7 @@
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Array, Math, Matrix |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Array, Hash Table, String, Sorting |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Math, Recursion |
+| 0055 | [Jump Game](0055-jump-game/README.md) | Array, Dynamic Programming, Greedy |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Array, Breadth-First Search, Matrix |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 
@@ -65,7 +67,7 @@
 ## By Topic
 
 <details>
-<summary>Array (9)</summary>
+<summary>Array (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -77,6 +79,7 @@
 | 0046 | [Permutations](0046-permutations/README.md) | Medium |
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
+| 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 
 </details>
@@ -160,21 +163,23 @@
 </details>
 
 <details>
-<summary>Dynamic Programming (2)</summary>
+<summary>Dynamic Programming (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
+| 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 
 </details>
 
 <details>
-<summary>Greedy (1)</summary>
+<summary>Greedy (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
+| 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 
 </details>
 
@@ -271,7 +276,7 @@
 ## By Language
 
 <details>
-<summary>python3 (15)</summary>
+<summary>python3 (16)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -287,6 +292,7 @@
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
+| 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
@@ -297,6 +303,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0055 | [Jump Game](0055-jump-game/README.md) | Medium | 2026-10-24 |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | 2026-10-23 |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | 2026-10-23 |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | 2026-10-22 |
@@ -311,4 +318,3 @@
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium | 2026-10-19 |
 | 0007 | [Reverse Integer](0007-reverse-integer/README.md) | Medium | 2026-10-19 |
 | 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium | 2026-10-19 |
-| 0004 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Hard | 2026-10-18 |
