@@ -17,6 +17,7 @@
     "leetcode/0543-diameter-of-binary-tree",
     "leetcode/0055-jump-game",
     "leetcode/0045-jump-game-ii",
-    "leetcode/1137-n-th-tribonacci-number"
+    "leetcode/1137-n-th-tribonacci-number",
+    "leetcode/0054-spiral-matrix"
   ]
 }

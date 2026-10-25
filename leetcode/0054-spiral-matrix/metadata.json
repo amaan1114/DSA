@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "54",
+  "frontendId": "54",
+  "title": "Spiral Matrix",
+  "slug": "spiral-matrix",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19.2 MB",
+  "submissionId": "2181436241",
+  "acceptedAt": "2026-10-25T13:56:08.985Z",
+  "updatedAt": "2026-10-25T13:56:10.176Z",
+  "url": "https://leetcode.com/problems/spiral-matrix/",
+  "version": 1
+}

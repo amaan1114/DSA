@@ -10,7 +10,8 @@
     "leetcode/0048-rotate-image",
     "leetcode/0049-group-anagrams",
     "leetcode/0055-jump-game",
-    "leetcode/0045-jump-game-ii"
+    "leetcode/0045-jump-game-ii",
+    "leetcode/0054-spiral-matrix"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays"
@@ -67,7 +68,8 @@
   "Matrix": [
     "leetcode/0994-rotting-oranges",
     "leetcode/0036-valid-sudoku",
-    "leetcode/0048-rotate-image"
+    "leetcode/0048-rotate-image",
+    "leetcode/0054-spiral-matrix"
   ],
   "Backtracking": [
     "leetcode/0022-generate-parentheses",
@@ -93,5 +95,8 @@
   ],
   "Memoization": [
     "leetcode/1137-n-th-tribonacci-number"
+  ],
+  "Simulation": [
+    "leetcode/0054-spiral-matrix"
   ]
 }

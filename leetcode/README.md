@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**18** problems solved — 2 Easy · 15 Medium · 1 Hard
+**19** problems solved — 2 Easy · 16 Medium · 1 Hard
 
 ## Contents
 
@@ -27,6 +27,7 @@
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium | Array, Math, Matrix |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | Array, Hash Table, String, Sorting |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | Math, Recursion |
+| 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Medium | Array, Matrix, Simulation |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | Array, Dynamic Programming, Greedy |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | Tree, Depth-First Search, Binary Tree, DP on Trees |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium | Array, Breadth-First Search, Matrix |
@@ -42,7 +43,7 @@
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Tree, Depth-First Search, Binary Tree, DP on Trees |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 
-### Medium (15)
+### Medium (16)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -58,6 +59,7 @@
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Array, Math, Matrix |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Array, Hash Table, String, Sorting |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Math, Recursion |
+| 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Array, Matrix, Simulation |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Array, Dynamic Programming, Greedy |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Array, Breadth-First Search, Matrix |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
@@ -71,7 +73,7 @@
 ## By Topic
 
 <details>
-<summary>Array (11)</summary>
+<summary>Array (12)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -84,6 +86,7 @@
 | 0046 | [Permutations](0046-permutations/README.md) | Medium |
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
+| 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 
@@ -223,12 +226,13 @@
 </details>
 
 <details>
-<summary>Matrix (3)</summary>
+<summary>Matrix (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium |
+| 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 
 </details>
@@ -248,6 +252,15 @@
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Simulation (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Medium |
 
 </details>
 
@@ -294,7 +307,7 @@
 ## By Language
 
 <details>
-<summary>python3 (18)</summary>
+<summary>python3 (19)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -311,6 +324,7 @@
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
+| 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
@@ -323,6 +337,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Medium | 2026-10-25 |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy | 2026-10-24 |
 | 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium | 2026-10-24 |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | 2026-10-24 |
@@ -337,4 +352,3 @@
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | 2026-10-20 |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium | 2026-10-20 |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | 2026-10-20 |
-| 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium | 2026-10-19 |

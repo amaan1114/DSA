@@ -249,5 +249,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-24T07:44:04.207Z"
+  },
+  {
+    "folderId": "leetcode/0054-spiral-matrix",
+    "frontendId": "54",
+    "title": "Spiral Matrix",
+    "slug": "spiral-matrix",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-25T13:56:08.985Z"
   }
 ]
