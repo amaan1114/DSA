@@ -12,7 +12,8 @@
     "leetcode/0055-jump-game",
     "leetcode/0045-jump-game-ii",
     "leetcode/0054-spiral-matrix",
-    "leetcode/0066-plus-one"
+    "leetcode/0066-plus-one",
+    "leetcode/1833-maximum-ice-cream-bars"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays"
@@ -70,7 +71,8 @@
   "Greedy": [
     "leetcode/0011-container-with-most-water",
     "leetcode/0055-jump-game",
-    "leetcode/0045-jump-game-ii"
+    "leetcode/0045-jump-game-ii",
+    "leetcode/1833-maximum-ice-cream-bars"
   ],
   "Matrix": [
     "leetcode/0994-rotting-oranges",
@@ -93,7 +95,8 @@
     "leetcode/0567-permutation-in-string"
   ],
   "Sorting": [
-    "leetcode/0049-group-anagrams"
+    "leetcode/0049-group-anagrams",
+    "leetcode/1833-maximum-ice-cream-bars"
   ],
   "Recursion": [
     "leetcode/0050-powx-n"
@@ -115,5 +118,8 @@
   ],
   "Hash Function": [
     "leetcode/0572-subtree-of-another-tree"
+  ],
+  "Counting Sort": [
+    "leetcode/1833-maximum-ice-cream-bars"
   ]
 }
