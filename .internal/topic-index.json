@@ -11,7 +11,8 @@
     "leetcode/0049-group-anagrams",
     "leetcode/0055-jump-game",
     "leetcode/0045-jump-game-ii",
-    "leetcode/0054-spiral-matrix"
+    "leetcode/0054-spiral-matrix",
+    "leetcode/0066-plus-one"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays"
@@ -44,7 +45,8 @@
     "leetcode/0007-reverse-integer",
     "leetcode/0048-rotate-image",
     "leetcode/0050-powx-n",
-    "leetcode/1137-n-th-tribonacci-number"
+    "leetcode/1137-n-th-tribonacci-number",
+    "leetcode/0066-plus-one"
   ],
   "Tree": [
     "leetcode/1448-count-good-nodes-in-binary-tree",

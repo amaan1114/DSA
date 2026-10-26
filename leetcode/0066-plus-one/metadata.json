@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "66",
+  "frontendId": "66",
+  "title": "Plus One",
+  "slug": "plus-one",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19 MB",
+  "submissionId": "2182019902",
+  "acceptedAt": "2026-10-26T07:37:47.520Z",
+  "updatedAt": "2026-10-26T07:37:48.609Z",
+  "url": "https://leetcode.com/problems/plus-one/",
+  "version": 1
+}

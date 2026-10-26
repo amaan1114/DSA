@@ -294,5 +294,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-26T04:27:31.872Z"
+  },
+  {
+    "folderId": "leetcode/0066-plus-one",
+    "frontendId": "66",
+    "title": "Plus One",
+    "slug": "plus-one",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-26T07:37:47.520Z"
   }
 ]
