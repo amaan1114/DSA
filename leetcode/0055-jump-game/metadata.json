@@ -12,11 +12,11 @@
   ],
   "companyTags": [],
   "language": "python3",
-  "runtime": "21 ms",
-  "memory": "20.5 MB",
-  "submissionId": "2180224770",
-  "acceptedAt": "2026-10-24T07:01:19.491Z",
-  "updatedAt": "2026-10-24T07:01:20.465Z",
+  "runtime": "24 ms",
+  "memory": "20.2 MB",
+  "submissionId": "2182196266",
+  "acceptedAt": "2026-10-26T12:20:03.464Z",
+  "updatedAt": "2026-10-26T12:20:04.656Z",
   "url": "https://leetcode.com/problems/jump-game/",
-  "version": 1
+  "version": 2
 }

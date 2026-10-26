@@ -381,13 +381,13 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0055 | [Jump Game](0055-jump-game/README.md) | Medium | 2026-10-26 |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy | 2026-10-26 |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy | 2026-10-26 |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium | 2026-10-26 |
 | 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Medium | 2026-10-25 |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy | 2026-10-24 |
 | 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium | 2026-10-24 |
-| 0055 | [Jump Game](0055-jump-game/README.md) | Medium | 2026-10-24 |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | 2026-10-23 |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | 2026-10-23 |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | 2026-10-22 |
