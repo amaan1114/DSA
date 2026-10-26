@@ -19,6 +19,7 @@
     "leetcode/0045-jump-game-ii",
     "leetcode/1137-n-th-tribonacci-number",
     "leetcode/0054-spiral-matrix",
-    "leetcode/0567-permutation-in-string"
+    "leetcode/0567-permutation-in-string",
+    "leetcode/0572-subtree-of-another-tree"
   ]
 }

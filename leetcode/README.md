@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**20** problems solved — 2 Easy · 17 Medium · 1 Hard
+**21** problems solved — 3 Easy · 17 Medium · 1 Hard
 
 ## Contents
 
@@ -31,17 +31,19 @@
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | Array, Dynamic Programming, Greedy |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | Tree, Depth-First Search, Binary Tree, DP on Trees |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium | Hash Table, Two Pointers, String, Sliding Window |
+| 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium | Array, Breadth-First Search, Matrix |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy | Math, Dynamic Programming, Memoization |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 
 ## By Difficulty
 
-### Easy (2)
+### Easy (3)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Tree, Depth-First Search, Binary Tree, DP on Trees |
+| 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 
 ### Medium (17)
@@ -116,11 +118,12 @@
 </details>
 
 <details>
-<summary>Binary Tree (2)</summary>
+<summary>Binary Tree (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
+| 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
 
 </details>
@@ -145,11 +148,12 @@
 </details>
 
 <details>
-<summary>Depth-First Search (2)</summary>
+<summary>Depth-First Search (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
+| 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
 
 </details>
@@ -193,6 +197,15 @@
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
 | 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Hash Function (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
 
 </details>
 
@@ -298,11 +311,21 @@
 </details>
 
 <details>
-<summary>Tree (2)</summary>
+<summary>String Matching (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Tree (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
+| 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
 
 </details>
@@ -321,7 +344,7 @@
 ## By Language
 
 <details>
-<summary>python3 (20)</summary>
+<summary>python3 (21)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -342,6 +365,7 @@
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
+| 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
@@ -352,6 +376,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy | 2026-10-26 |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium | 2026-10-26 |
 | 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Medium | 2026-10-25 |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy | 2026-10-24 |
@@ -366,4 +391,3 @@
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | 2026-10-21 |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | 2026-10-21 |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | 2026-10-20 |
-| 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium | 2026-10-20 |

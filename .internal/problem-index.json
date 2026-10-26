@@ -278,5 +278,21 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-26T03:56:11.088Z"
+  },
+  {
+    "folderId": "leetcode/0572-subtree-of-another-tree",
+    "frontendId": "572",
+    "title": "Subtree of Another Tree",
+    "slug": "subtree-of-another-tree",
+    "difficulty": "Easy",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "String Matching",
+      "Binary Tree",
+      "Hash Function"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-26T04:27:31.872Z"
   }
 ]

@@ -48,11 +48,13 @@
   ],
   "Tree": [
     "leetcode/1448-count-good-nodes-in-binary-tree",
-    "leetcode/0543-diameter-of-binary-tree"
+    "leetcode/0543-diameter-of-binary-tree",
+    "leetcode/0572-subtree-of-another-tree"
   ],
   "Depth-First Search": [
     "leetcode/1448-count-good-nodes-in-binary-tree",
-    "leetcode/0543-diameter-of-binary-tree"
+    "leetcode/0543-diameter-of-binary-tree",
+    "leetcode/0572-subtree-of-another-tree"
   ],
   "Breadth-First Search": [
     "leetcode/1448-count-good-nodes-in-binary-tree",
@@ -60,7 +62,8 @@
   ],
   "Binary Tree": [
     "leetcode/1448-count-good-nodes-in-binary-tree",
-    "leetcode/0543-diameter-of-binary-tree"
+    "leetcode/0543-diameter-of-binary-tree",
+    "leetcode/0572-subtree-of-another-tree"
   ],
   "Greedy": [
     "leetcode/0011-container-with-most-water",
@@ -104,5 +107,11 @@
   ],
   "Sliding Window": [
     "leetcode/0567-permutation-in-string"
+  ],
+  "String Matching": [
+    "leetcode/0572-subtree-of-another-tree"
+  ],
+  "Hash Function": [
+    "leetcode/0572-subtree-of-another-tree"
   ]
 }
