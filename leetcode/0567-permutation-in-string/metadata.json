@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "567",
+  "frontendId": "567",
+  "title": "Permutation in String",
+  "slug": "permutation-in-string",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Two Pointers",
+    "String",
+    "Sliding Window"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "1664 ms",
+  "memory": "19.3 MB",
+  "submissionId": "2181873099",
+  "acceptedAt": "2026-10-26T03:56:11.088Z",
+  "updatedAt": "2026-10-26T03:56:12.289Z",
+  "url": "https://leetcode.com/problems/permutation-in-string/",
+  "version": 1
+}

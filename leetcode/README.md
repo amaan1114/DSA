@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**19** problems solved — 2 Easy · 16 Medium · 1 Hard
+**20** problems solved — 2 Easy · 17 Medium · 1 Hard
 
 ## Contents
 
@@ -30,6 +30,7 @@
 | 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Medium | Array, Matrix, Simulation |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | Array, Dynamic Programming, Greedy |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | Tree, Depth-First Search, Binary Tree, DP on Trees |
+| 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium | Hash Table, Two Pointers, String, Sliding Window |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium | Array, Breadth-First Search, Matrix |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy | Math, Dynamic Programming, Memoization |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
@@ -43,7 +44,7 @@
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Tree, Depth-First Search, Binary Tree, DP on Trees |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 
-### Medium (16)
+### Medium (17)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -61,6 +62,7 @@
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Math, Recursion |
 | 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Array, Matrix, Simulation |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Array, Dynamic Programming, Greedy |
+| 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Hash Table, Two Pointers, String, Sliding Window |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Array, Breadth-First Search, Matrix |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 
@@ -195,12 +197,13 @@
 </details>
 
 <details>
-<summary>Hash Table (2)</summary>
+<summary>Hash Table (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
+| 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
 
 </details>
 
@@ -265,6 +268,15 @@
 </details>
 
 <details>
+<summary>Sliding Window (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Sorting (1)</summary>
 
 | # | Title | Difficulty |
@@ -274,13 +286,14 @@
 </details>
 
 <details>
-<summary>String (3)</summary>
+<summary>String (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
+| 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
 
 </details>
 
@@ -295,19 +308,20 @@
 </details>
 
 <details>
-<summary>Two Pointers (2)</summary>
+<summary>Two Pointers (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
+| 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
 
 </details>
 
 ## By Language
 
 <details>
-<summary>python3 (19)</summary>
+<summary>python3 (20)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -327,6 +341,7 @@
 | 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
+| 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
@@ -337,6 +352,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium | 2026-10-26 |
 | 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Medium | 2026-10-25 |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy | 2026-10-24 |
 | 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium | 2026-10-24 |
@@ -351,4 +367,3 @@
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium | 2026-10-21 |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium | 2026-10-20 |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium | 2026-10-20 |
-| 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium | 2026-10-20 |

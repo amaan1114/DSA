@@ -263,5 +263,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-25T13:56:08.985Z"
+  },
+  {
+    "folderId": "leetcode/0567-permutation-in-string",
+    "frontendId": "567",
+    "title": "Permutation in String",
+    "slug": "permutation-in-string",
+    "difficulty": "Medium",
+    "topics": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Sliding Window"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-26T03:56:11.088Z"
   }
 ]
