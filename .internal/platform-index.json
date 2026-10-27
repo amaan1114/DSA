@@ -22,6 +22,7 @@
     "leetcode/0567-permutation-in-string",
     "leetcode/0572-subtree-of-another-tree",
     "leetcode/0066-plus-one",
-    "leetcode/1833-maximum-ice-cream-bars"
+    "leetcode/1833-maximum-ice-cream-bars",
+    "leetcode/1029-two-city-scheduling"
   ]
 }

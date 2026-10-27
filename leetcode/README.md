@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**23** problems solved — 4 Easy · 18 Medium · 1 Hard
+**24** problems solved — 4 Easy · 19 Medium · 1 Hard
 
 ## Contents
 
@@ -34,6 +34,7 @@
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium | Hash Table, Two Pointers, String, Sliding Window |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium | Array, Breadth-First Search, Matrix |
+| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy | Math, Dynamic Programming, Memoization |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | Array, Greedy, Sorting, Counting Sort |
@@ -49,7 +50,7 @@
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 
-### Medium (18)
+### Medium (19)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -69,6 +70,7 @@
 | 0055 | [Jump Game](0055-jump-game/README.md) | Array, Dynamic Programming, Greedy |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Hash Table, Two Pointers, String, Sliding Window |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Array, Breadth-First Search, Matrix |
+| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Array, Greedy, Sorting, Counting Sort |
 
@@ -81,7 +83,7 @@
 ## By Topic
 
 <details>
-<summary>Array (14)</summary>
+<summary>Array (15)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -98,6 +100,7 @@
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
+| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 
 </details>
@@ -205,13 +208,14 @@
 </details>
 
 <details>
-<summary>Greedy (4)</summary>
+<summary>Greedy (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
 | 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
+| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 
 </details>
@@ -233,6 +237,15 @@
 | 0036 | [Valid Sudoku](0036-valid-sudoku/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Hungarian Algorithm (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 
 </details>
 
@@ -307,11 +320,12 @@
 </details>
 
 <details>
-<summary>Sorting (2)</summary>
+<summary>Sorting (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
+| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 
 </details>
@@ -334,6 +348,15 @@
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Successive Shortest Path Algorithm (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 
 </details>
 
@@ -362,7 +385,7 @@
 ## By Language
 
 <details>
-<summary>python3 (23)</summary>
+<summary>python3 (24)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -386,6 +409,7 @@
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
+| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
@@ -396,6 +420,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | 2026-10-27 |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | 2026-10-26 |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | 2026-10-26 |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy | 2026-10-26 |
@@ -410,4 +435,3 @@
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium | 2026-10-22 |
 | 0046 | [Permutations](0046-permutations/README.md) | Medium | 2026-10-22 |
 | 0040 | [Combination Sum II](0040-combination-sum-ii/README.md) | Medium | 2026-10-21 |
-| 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | 2026-10-21 |

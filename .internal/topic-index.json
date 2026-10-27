@@ -13,7 +13,8 @@
     "leetcode/0045-jump-game-ii",
     "leetcode/0054-spiral-matrix",
     "leetcode/0066-plus-one",
-    "leetcode/1833-maximum-ice-cream-bars"
+    "leetcode/1833-maximum-ice-cream-bars",
+    "leetcode/1029-two-city-scheduling"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays"
@@ -72,7 +73,8 @@
     "leetcode/0011-container-with-most-water",
     "leetcode/0055-jump-game",
     "leetcode/0045-jump-game-ii",
-    "leetcode/1833-maximum-ice-cream-bars"
+    "leetcode/1833-maximum-ice-cream-bars",
+    "leetcode/1029-two-city-scheduling"
   ],
   "Matrix": [
     "leetcode/0994-rotting-oranges",
@@ -96,7 +98,8 @@
   ],
   "Sorting": [
     "leetcode/0049-group-anagrams",
-    "leetcode/1833-maximum-ice-cream-bars"
+    "leetcode/1833-maximum-ice-cream-bars",
+    "leetcode/1029-two-city-scheduling"
   ],
   "Recursion": [
     "leetcode/0050-powx-n"
@@ -121,5 +124,11 @@
   ],
   "Counting Sort": [
     "leetcode/1833-maximum-ice-cream-bars"
+  ],
+  "Hungarian Algorithm": [
+    "leetcode/1029-two-city-scheduling"
+  ],
+  "Successive Shortest Path Algorithm": [
+    "leetcode/1029-two-city-scheduling"
   ]
 }
