@@ -14,7 +14,8 @@
     "leetcode/0054-spiral-matrix",
     "leetcode/0066-plus-one",
     "leetcode/1833-maximum-ice-cream-bars",
-    "leetcode/1029-two-city-scheduling"
+    "leetcode/1029-two-city-scheduling",
+    "leetcode/0452-minimum-number-of-arrows-to-burst-balloons"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays"
@@ -74,7 +75,8 @@
     "leetcode/0055-jump-game",
     "leetcode/0045-jump-game-ii",
     "leetcode/1833-maximum-ice-cream-bars",
-    "leetcode/1029-two-city-scheduling"
+    "leetcode/1029-two-city-scheduling",
+    "leetcode/0452-minimum-number-of-arrows-to-burst-balloons"
   ],
   "Matrix": [
     "leetcode/0994-rotting-oranges",
@@ -99,7 +101,8 @@
   "Sorting": [
     "leetcode/0049-group-anagrams",
     "leetcode/1833-maximum-ice-cream-bars",
-    "leetcode/1029-two-city-scheduling"
+    "leetcode/1029-two-city-scheduling",
+    "leetcode/0452-minimum-number-of-arrows-to-burst-balloons"
   ],
   "Recursion": [
     "leetcode/0050-powx-n"

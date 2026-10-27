@@ -23,6 +23,7 @@
     "leetcode/0572-subtree-of-another-tree",
     "leetcode/0066-plus-one",
     "leetcode/1833-maximum-ice-cream-bars",
-    "leetcode/1029-two-city-scheduling"
+    "leetcode/1029-two-city-scheduling",
+    "leetcode/0452-minimum-number-of-arrows-to-burst-balloons"
   ]
 }
