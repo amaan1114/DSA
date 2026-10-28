@@ -352,5 +352,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-27T07:52:05.888Z"
+  },
+  {
+    "folderId": "leetcode/0073-set-matrix-zeroes",
+    "frontendId": "73",
+    "title": "Set Matrix Zeroes",
+    "slug": "set-matrix-zeroes",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-28T09:03:46.972Z"
   }
 ]
