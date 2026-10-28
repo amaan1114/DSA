@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**26** problems solved — 4 Easy · 21 Medium · 1 Hard
+**27** problems solved — 4 Easy · 22 Medium · 1 Hard
 
 ## Contents
 
@@ -35,6 +35,7 @@
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | Tree, Depth-First Search, Binary Tree, DP on Trees |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium | Hash Table, Two Pointers, String, Sliding Window |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function |
+| 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium | Hash Table, Two Pointers, String, Greedy |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium | Array, Breadth-First Search, Matrix |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy | Math, Dynamic Programming, Memoization |
@@ -52,7 +53,7 @@
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 
-### Medium (21)
+### Medium (22)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -73,6 +74,7 @@
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Array, Hash Table, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Array, Greedy, Sorting |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Hash Table, Two Pointers, String, Sliding Window |
+| 0763 | [Partition Labels](0763-partition-labels/README.md) | Hash Table, Two Pointers, String, Greedy |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Array, Breadth-First Search, Matrix |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
@@ -214,7 +216,7 @@
 </details>
 
 <details>
-<summary>Greedy (6)</summary>
+<summary>Greedy (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -222,6 +224,7 @@
 | 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
+| 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 
@@ -237,7 +240,7 @@
 </details>
 
 <details>
-<summary>Hash Table (4)</summary>
+<summary>Hash Table (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -245,6 +248,7 @@
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
+| 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium |
 
 </details>
 
@@ -341,7 +345,7 @@
 </details>
 
 <details>
-<summary>String (4)</summary>
+<summary>String (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -349,6 +353,7 @@
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
+| 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium |
 
 </details>
 
@@ -382,20 +387,21 @@
 </details>
 
 <details>
-<summary>Two Pointers (3)</summary>
+<summary>Two Pointers (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
+| 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium |
 
 </details>
 
 ## By Language
 
 <details>
-<summary>python3 (26)</summary>
+<summary>python3 (27)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -420,6 +426,7 @@
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
+| 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy |
@@ -432,6 +439,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium | 2026-10-28 |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium | 2026-10-28 |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | 2026-10-27 |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | 2026-10-27 |
@@ -446,4 +454,3 @@
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | 2026-10-23 |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | 2026-10-23 |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium | 2026-10-22 |
-| 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium | 2026-10-22 |

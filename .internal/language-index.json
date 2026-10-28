@@ -25,6 +25,7 @@
     "leetcode/1833-maximum-ice-cream-bars",
     "leetcode/1029-two-city-scheduling",
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
-    "leetcode/0073-set-matrix-zeroes"
+    "leetcode/0073-set-matrix-zeroes",
+    "leetcode/0763-partition-labels"
   ]
 }

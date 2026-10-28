@@ -366,5 +366,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-28T09:04:43.155Z"
+  },
+  {
+    "folderId": "leetcode/0763-partition-labels",
+    "frontendId": "763",
+    "title": "Partition Labels",
+    "slug": "partition-labels",
+    "difficulty": "Medium",
+    "topics": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-28T13:05:51.163Z"
   }
 ]

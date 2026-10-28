@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "768",
+  "frontendId": "763",
+  "title": "Partition Labels",
+  "slug": "partition-labels",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Two Pointers",
+    "String",
+    "Greedy"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "3 ms",
+  "memory": "19.4 MB",
+  "submissionId": "2183915455",
+  "acceptedAt": "2026-10-28T13:05:51.163Z",
+  "updatedAt": "2026-10-28T13:05:52.143Z",
+  "url": "https://leetcode.com/problems/partition-labels/",
+  "version": 1
+}
