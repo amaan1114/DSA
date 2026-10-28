@@ -1,5 +1,5 @@
-# Runtime: 233 ms
-# Memory: 24 MB
+# Runtime: 235 ms
+# Memory: 23.6 MB
 
 class Solution:
     def setZeroes(self, matrix: list[list[int]]) -> None:

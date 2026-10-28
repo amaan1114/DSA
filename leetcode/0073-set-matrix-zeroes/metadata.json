@@ -12,11 +12,11 @@
   ],
   "companyTags": [],
   "language": "python3",
-  "runtime": "233 ms",
-  "memory": "24 MB",
-  "submissionId": "2183769683",
-  "acceptedAt": "2026-10-28T09:03:46.972Z",
-  "updatedAt": "2026-10-28T09:03:48.047Z",
+  "runtime": "235 ms",
+  "memory": "23.6 MB",
+  "submissionId": "2183770247",
+  "acceptedAt": "2026-10-28T09:04:43.155Z",
+  "updatedAt": "2026-10-28T09:04:48.696Z",
   "url": "https://leetcode.com/problems/set-matrix-zeroes/",
-  "version": 1
+  "version": 2
 }
