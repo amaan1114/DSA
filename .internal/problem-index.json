@@ -381,5 +381,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-28T13:05:51.163Z"
+  },
+  {
+    "folderId": "leetcode/0746-min-cost-climbing-stairs",
+    "frontendId": "746",
+    "title": "Min Cost Climbing Stairs",
+    "slug": "min-cost-climbing-stairs",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-29T09:19:00.142Z"
   }
 ]
