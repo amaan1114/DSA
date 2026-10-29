@@ -27,6 +27,7 @@
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
     "leetcode/0073-set-matrix-zeroes",
     "leetcode/0763-partition-labels",
-    "leetcode/0746-min-cost-climbing-stairs"
+    "leetcode/0746-min-cost-climbing-stairs",
+    "leetcode/0547-number-of-provinces"
   ]
 }

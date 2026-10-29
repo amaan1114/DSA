@@ -64,11 +64,13 @@
   "Depth-First Search": [
     "leetcode/1448-count-good-nodes-in-binary-tree",
     "leetcode/0543-diameter-of-binary-tree",
-    "leetcode/0572-subtree-of-another-tree"
+    "leetcode/0572-subtree-of-another-tree",
+    "leetcode/0547-number-of-provinces"
   ],
   "Breadth-First Search": [
     "leetcode/1448-count-good-nodes-in-binary-tree",
-    "leetcode/0994-rotting-oranges"
+    "leetcode/0994-rotting-oranges",
+    "leetcode/0547-number-of-provinces"
   ],
   "Binary Tree": [
     "leetcode/1448-count-good-nodes-in-binary-tree",
@@ -142,5 +144,11 @@
   ],
   "Successive Shortest Path Algorithm": [
     "leetcode/1029-two-city-scheduling"
+  ],
+  "Union-Find": [
+    "leetcode/0547-number-of-provinces"
+  ],
+  "Graph Theory": [
+    "leetcode/0547-number-of-provinces"
   ]
 }
