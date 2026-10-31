@@ -17,7 +17,8 @@
     "leetcode/1029-two-city-scheduling",
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
     "leetcode/0073-set-matrix-zeroes",
-    "leetcode/0746-min-cost-climbing-stairs"
+    "leetcode/0746-min-cost-climbing-stairs",
+    "leetcode/0200-number-of-islands"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays"
@@ -65,12 +66,14 @@
     "leetcode/1448-count-good-nodes-in-binary-tree",
     "leetcode/0543-diameter-of-binary-tree",
     "leetcode/0572-subtree-of-another-tree",
-    "leetcode/0547-number-of-provinces"
+    "leetcode/0547-number-of-provinces",
+    "leetcode/0200-number-of-islands"
   ],
   "Breadth-First Search": [
     "leetcode/1448-count-good-nodes-in-binary-tree",
     "leetcode/0994-rotting-oranges",
-    "leetcode/0547-number-of-provinces"
+    "leetcode/0547-number-of-provinces",
+    "leetcode/0200-number-of-islands"
   ],
   "Binary Tree": [
     "leetcode/1448-count-good-nodes-in-binary-tree",
@@ -91,7 +94,8 @@
     "leetcode/0036-valid-sudoku",
     "leetcode/0048-rotate-image",
     "leetcode/0054-spiral-matrix",
-    "leetcode/0073-set-matrix-zeroes"
+    "leetcode/0073-set-matrix-zeroes",
+    "leetcode/0200-number-of-islands"
   ],
   "Backtracking": [
     "leetcode/0022-generate-parentheses",
@@ -146,7 +150,8 @@
     "leetcode/1029-two-city-scheduling"
   ],
   "Union-Find": [
-    "leetcode/0547-number-of-provinces"
+    "leetcode/0547-number-of-provinces",
+    "leetcode/0200-number-of-islands"
   ],
   "Graph Theory": [
     "leetcode/0547-number-of-provinces"

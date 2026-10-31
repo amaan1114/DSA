@@ -28,6 +28,7 @@
     "leetcode/0073-set-matrix-zeroes",
     "leetcode/0763-partition-labels",
     "leetcode/0746-min-cost-climbing-stairs",
-    "leetcode/0547-number-of-provinces"
+    "leetcode/0547-number-of-provinces",
+    "leetcode/0200-number-of-islands"
   ]
 }

@@ -409,5 +409,21 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-29T11:30:19.881Z"
+  },
+  {
+    "folderId": "leetcode/0200-number-of-islands",
+    "frontendId": "200",
+    "title": "Number of Islands",
+    "slug": "number-of-islands",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Matrix"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-31T13:57:11.904Z"
   }
 ]

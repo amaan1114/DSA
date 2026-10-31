@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**29** problems solved — 5 Easy · 23 Medium · 1 Hard
+**30** problems solved — 5 Easy · 24 Medium · 1 Hard
 
 ## Contents
 
@@ -31,6 +31,7 @@
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | Array, Dynamic Programming, Greedy |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy | Array, Math |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium | Array, Hash Table, Matrix |
+| 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | Tree, Depth-First Search, Binary Tree, DP on Trees |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
@@ -56,7 +57,7 @@
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Array, Dynamic Programming |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 
-### Medium (23)
+### Medium (24)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -75,6 +76,7 @@
 | 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Array, Matrix, Simulation |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Array, Dynamic Programming, Greedy |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Array, Hash Table, Matrix |
+| 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Array, Greedy, Sorting |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Hash Table, Two Pointers, String, Sliding Window |
@@ -93,7 +95,7 @@
 ## By Topic
 
 <details>
-<summary>Array (18)</summary>
+<summary>Array (19)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -110,6 +112,7 @@
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium |
+| 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
@@ -160,10 +163,11 @@
 </details>
 
 <details>
-<summary>Breadth-First Search (3)</summary>
+<summary>Breadth-First Search (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
@@ -180,10 +184,11 @@
 </details>
 
 <details>
-<summary>Depth-First Search (4)</summary>
+<summary>Depth-First Search (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
@@ -301,7 +306,7 @@
 </details>
 
 <details>
-<summary>Matrix (5)</summary>
+<summary>Matrix (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -309,6 +314,7 @@
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium |
 | 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Medium |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium |
+| 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 
 </details>
@@ -416,10 +422,11 @@
 </details>
 
 <details>
-<summary>Union-Find (1)</summary>
+<summary>Union-Find (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 
 </details>
@@ -427,7 +434,7 @@
 ## By Language
 
 <details>
-<summary>python3 (29)</summary>
+<summary>python3 (30)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -448,6 +455,7 @@
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium |
+| 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
@@ -467,6 +475,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | 2026-10-31 |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | 2026-10-29 |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | 2026-10-29 |
 | 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium | 2026-10-28 |
@@ -481,4 +490,3 @@
 | 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Medium | 2026-10-25 |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy | 2026-10-24 |
 | 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium | 2026-10-24 |
-| 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | 2026-10-23 |
