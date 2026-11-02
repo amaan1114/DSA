@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "518",
+  "frontendId": "518",
+  "title": "Coin Change II",
+  "slug": "coin-change-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Knapsack Problem",
+    "Complete Knapsack"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "2093 ms",
+  "memory": "373.9 MB",
+  "submissionId": "2187448844",
+  "acceptedAt": "2026-11-02T04:31:24.560Z",
+  "updatedAt": "2026-11-02T04:31:25.391Z",
+  "url": "https://leetcode.com/problems/coin-change-ii/",
+  "version": 1
+}
