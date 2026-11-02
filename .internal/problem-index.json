@@ -440,5 +440,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-02T04:31:24.560Z"
+  },
+  {
+    "folderId": "leetcode/0462-minimum-moves-to-equal-array-elements-ii",
+    "frontendId": "462",
+    "title": "Minimum Moves to Equal Array Elements II",
+    "slug": "minimum-moves-to-equal-array-elements-ii",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Math",
+      "Sorting"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-02T04:40:56.150Z"
   }
 ]

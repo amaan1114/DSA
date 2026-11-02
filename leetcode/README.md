@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**31** problems solved — 5 Easy · 25 Medium · 1 Hard
+**32** problems solved — 5 Easy · 26 Medium · 1 Hard
 
 ## Contents
 
@@ -33,6 +33,7 @@
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium | Array, Hash Table, Matrix |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
+| 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | Array, Math, Sorting |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | Array, Dynamic Programming, Knapsack Problem, Complete Knapsack |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy | Tree, Depth-First Search, Binary Tree, DP on Trees |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
@@ -58,7 +59,7 @@
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Array, Dynamic Programming |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 
-### Medium (25)
+### Medium (26)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -79,6 +80,7 @@
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Array, Hash Table, Matrix |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Array, Greedy, Sorting |
+| 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Array, Math, Sorting |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Array, Dynamic Programming, Knapsack Problem, Complete Knapsack |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Hash Table, Two Pointers, String, Sliding Window |
@@ -97,7 +99,7 @@
 ## By Topic
 
 <details>
-<summary>Array (20)</summary>
+<summary>Array (21)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -116,6 +118,7 @@
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
+| 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
@@ -315,7 +318,7 @@
 </details>
 
 <details>
-<summary>Math (5)</summary>
+<summary>Math (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -323,6 +326,7 @@
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
+| 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy |
 
 </details>
@@ -378,12 +382,13 @@
 </details>
 
 <details>
-<summary>Sorting (4)</summary>
+<summary>Sorting (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
+| 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 
@@ -456,7 +461,7 @@
 ## By Language
 
 <details>
-<summary>python3 (31)</summary>
+<summary>python3 (32)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -479,6 +484,7 @@
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
+| 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
@@ -498,6 +504,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | 2026-11-02 |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | 2026-11-02 |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | 2026-10-31 |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | 2026-10-29 |
@@ -512,4 +519,3 @@
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy | 2026-10-26 |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium | 2026-10-26 |
 | 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Medium | 2026-10-25 |
-| 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy | 2026-10-24 |

@@ -19,7 +19,8 @@
     "leetcode/0073-set-matrix-zeroes",
     "leetcode/0746-min-cost-climbing-stairs",
     "leetcode/0200-number-of-islands",
-    "leetcode/0518-coin-change-ii"
+    "leetcode/0518-coin-change-ii",
+    "leetcode/0462-minimum-moves-to-equal-array-elements-ii"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays"
@@ -57,7 +58,8 @@
     "leetcode/0048-rotate-image",
     "leetcode/0050-powx-n",
     "leetcode/1137-n-th-tribonacci-number",
-    "leetcode/0066-plus-one"
+    "leetcode/0066-plus-one",
+    "leetcode/0462-minimum-moves-to-equal-array-elements-ii"
   ],
   "Tree": [
     "leetcode/1448-count-good-nodes-in-binary-tree",
@@ -119,7 +121,8 @@
     "leetcode/0049-group-anagrams",
     "leetcode/1833-maximum-ice-cream-bars",
     "leetcode/1029-two-city-scheduling",
-    "leetcode/0452-minimum-number-of-arrows-to-burst-balloons"
+    "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
+    "leetcode/0462-minimum-moves-to-equal-array-elements-ii"
   ],
   "Recursion": [
     "leetcode/0050-powx-n"
