@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**32** problems solved — 5 Easy · 26 Medium · 1 Hard
+**33** problems solved — 5 Easy · 27 Medium · 1 Hard
 
 ## Contents
 
@@ -29,6 +29,7 @@
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium | Math, Recursion |
 | 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Medium | Array, Matrix, Simulation |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | Array, Dynamic Programming, Greedy |
+| 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | Math, Dynamic Programming, Combinatorics |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy | Array, Math |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium | Array, Hash Table, Matrix |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
@@ -59,7 +60,7 @@
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Array, Dynamic Programming |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 
-### Medium (26)
+### Medium (27)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -77,6 +78,7 @@
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Math, Recursion |
 | 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Array, Matrix, Simulation |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Array, Dynamic Programming, Greedy |
+| 0062 | [Unique Paths](0062-unique-paths/README.md) | Math, Dynamic Programming, Combinatorics |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Array, Hash Table, Matrix |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Array, Greedy, Sorting |
@@ -181,6 +183,15 @@
 </details>
 
 <details>
+<summary>Combinatorics (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Complete Knapsack (1)</summary>
 
 | # | Title | Difficulty |
@@ -230,7 +241,7 @@
 </details>
 
 <details>
-<summary>Dynamic Programming (7)</summary>
+<summary>Dynamic Programming (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -238,6 +249,7 @@
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
+| 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy |
@@ -318,13 +330,14 @@
 </details>
 
 <details>
-<summary>Math (6)</summary>
+<summary>Math (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0007 | [Reverse Integer](0007-reverse-integer/README.md) | Medium |
 | 0048 | [Rotate Image](0048-rotate-image/README.md) | Medium |
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
+| 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy |
@@ -461,7 +474,7 @@
 ## By Language
 
 <details>
-<summary>python3 (32)</summary>
+<summary>python3 (33)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -480,6 +493,7 @@
 | 0050 | [Pow(x, n)](0050-powx-n/README.md) | Medium |
 | 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
+| 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
@@ -504,6 +518,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-02 |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | 2026-11-02 |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | 2026-11-02 |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | 2026-10-31 |
@@ -518,4 +533,3 @@
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy | 2026-10-26 |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy | 2026-10-26 |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium | 2026-10-26 |
-| 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Medium | 2026-10-25 |

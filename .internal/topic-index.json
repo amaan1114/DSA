@@ -48,7 +48,8 @@
     "leetcode/0045-jump-game-ii",
     "leetcode/1137-n-th-tribonacci-number",
     "leetcode/0746-min-cost-climbing-stairs",
-    "leetcode/0518-coin-change-ii"
+    "leetcode/0518-coin-change-ii",
+    "leetcode/0062-unique-paths"
   ],
   "Manacher": [
     "leetcode/0005-longest-palindromic-substring"
@@ -59,7 +60,8 @@
     "leetcode/0050-powx-n",
     "leetcode/1137-n-th-tribonacci-number",
     "leetcode/0066-plus-one",
-    "leetcode/0462-minimum-moves-to-equal-array-elements-ii"
+    "leetcode/0462-minimum-moves-to-equal-array-elements-ii",
+    "leetcode/0062-unique-paths"
   ],
   "Tree": [
     "leetcode/1448-count-good-nodes-in-binary-tree",
@@ -166,5 +168,8 @@
   ],
   "Complete Knapsack": [
     "leetcode/0518-coin-change-ii"
+  ],
+  "Combinatorics": [
+    "leetcode/0062-unique-paths"
   ]
 }

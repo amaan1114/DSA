@@ -31,6 +31,7 @@
     "leetcode/0547-number-of-provinces",
     "leetcode/0200-number-of-islands",
     "leetcode/0518-coin-change-ii",
-    "leetcode/0462-minimum-moves-to-equal-array-elements-ii"
+    "leetcode/0462-minimum-moves-to-equal-array-elements-ii",
+    "leetcode/0062-unique-paths"
   ]
 }
