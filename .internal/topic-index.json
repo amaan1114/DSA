@@ -70,7 +70,8 @@
   "Tree": [
     "leetcode/1448-count-good-nodes-in-binary-tree",
     "leetcode/0543-diameter-of-binary-tree",
-    "leetcode/0572-subtree-of-another-tree"
+    "leetcode/0572-subtree-of-another-tree",
+    "leetcode/2583-kth-largest-sum-in-a-binary-tree"
   ],
   "Depth-First Search": [
     "leetcode/1448-count-good-nodes-in-binary-tree",
@@ -83,12 +84,14 @@
     "leetcode/1448-count-good-nodes-in-binary-tree",
     "leetcode/0994-rotting-oranges",
     "leetcode/0547-number-of-provinces",
-    "leetcode/0200-number-of-islands"
+    "leetcode/0200-number-of-islands",
+    "leetcode/2583-kth-largest-sum-in-a-binary-tree"
   ],
   "Binary Tree": [
     "leetcode/1448-count-good-nodes-in-binary-tree",
     "leetcode/0543-diameter-of-binary-tree",
-    "leetcode/0572-subtree-of-another-tree"
+    "leetcode/0572-subtree-of-another-tree",
+    "leetcode/2583-kth-largest-sum-in-a-binary-tree"
   ],
   "Greedy": [
     "leetcode/0011-container-with-most-water",
@@ -129,7 +132,8 @@
     "leetcode/1833-maximum-ice-cream-bars",
     "leetcode/1029-two-city-scheduling",
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
-    "leetcode/0462-minimum-moves-to-equal-array-elements-ii"
+    "leetcode/0462-minimum-moves-to-equal-array-elements-ii",
+    "leetcode/2583-kth-largest-sum-in-a-binary-tree"
   ],
   "Recursion": [
     "leetcode/0050-powx-n"

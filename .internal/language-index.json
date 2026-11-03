@@ -34,6 +34,7 @@
     "leetcode/0462-minimum-moves-to-equal-array-elements-ii",
     "leetcode/0062-unique-paths",
     "leetcode/3736-minimum-moves-to-equal-array-elements-iii",
-    "leetcode/0063-unique-paths-ii"
+    "leetcode/0063-unique-paths-ii",
+    "leetcode/2583-kth-largest-sum-in-a-binary-tree"
   ]
 }

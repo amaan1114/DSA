@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**35** problems solved — 6 Easy · 28 Medium · 1 Hard
+**36** problems solved — 6 Easy · 29 Medium · 1 Hard
 
 ## Contents
 
@@ -48,6 +48,7 @@
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy | Math, Dynamic Programming, Memoization |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | Array, Greedy, Sorting, Counting Sort |
+| 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium | Tree, Breadth-First Search, Sorting, Binary Tree |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | Array, Math |
 
 ## By Difficulty
@@ -63,7 +64,7 @@
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Array, Math |
 
-### Medium (28)
+### Medium (29)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -95,6 +96,7 @@
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Array, Greedy, Sorting, Counting Sort |
+| 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Tree, Breadth-First Search, Sorting, Binary Tree |
 
 ### Hard (1)
 
@@ -157,13 +159,14 @@
 </details>
 
 <details>
-<summary>Binary Tree (3)</summary>
+<summary>Binary Tree (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
+| 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium |
 
 </details>
 
@@ -177,7 +180,7 @@
 </details>
 
 <details>
-<summary>Breadth-First Search (4)</summary>
+<summary>Breadth-First Search (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -185,6 +188,7 @@
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
+| 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium |
 
 </details>
 
@@ -404,7 +408,7 @@
 </details>
 
 <details>
-<summary>Sorting (5)</summary>
+<summary>Sorting (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -413,6 +417,7 @@
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
+| 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium |
 
 </details>
 
@@ -448,13 +453,14 @@
 </details>
 
 <details>
-<summary>Tree (3)</summary>
+<summary>Tree (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
+| 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium |
 
 </details>
 
@@ -483,7 +489,7 @@
 ## By Language
 
 <details>
-<summary>python3 (35)</summary>
+<summary>python3 (36)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -521,6 +527,7 @@
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
+| 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy |
 
 </details>
@@ -529,6 +536,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium | 2026-11-03 |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | 2026-11-03 |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-02 |
@@ -543,4 +551,3 @@
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | 2026-10-27 |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | 2026-10-26 |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | 2026-10-26 |
-| 0066 | [Plus One](0066-plus-one/README.md) | Easy | 2026-10-26 |

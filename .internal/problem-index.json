@@ -495,5 +495,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-03T07:55:57.992Z"
+  },
+  {
+    "folderId": "leetcode/2583-kth-largest-sum-in-a-binary-tree",
+    "frontendId": "2583",
+    "title": "Kth Largest Sum in a Binary Tree",
+    "slug": "kth-largest-sum-in-a-binary-tree",
+    "difficulty": "Medium",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Sorting",
+      "Binary Tree"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-03T09:30:13.333Z"
   }
 ]
