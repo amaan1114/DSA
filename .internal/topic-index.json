@@ -21,7 +21,8 @@
     "leetcode/0200-number-of-islands",
     "leetcode/0518-coin-change-ii",
     "leetcode/0462-minimum-moves-to-equal-array-elements-ii",
-    "leetcode/3736-minimum-moves-to-equal-array-elements-iii"
+    "leetcode/3736-minimum-moves-to-equal-array-elements-iii",
+    "leetcode/0063-unique-paths-ii"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays"
@@ -50,7 +51,8 @@
     "leetcode/1137-n-th-tribonacci-number",
     "leetcode/0746-min-cost-climbing-stairs",
     "leetcode/0518-coin-change-ii",
-    "leetcode/0062-unique-paths"
+    "leetcode/0062-unique-paths",
+    "leetcode/0063-unique-paths-ii"
   ],
   "Manacher": [
     "leetcode/0005-longest-palindromic-substring"
@@ -103,7 +105,8 @@
     "leetcode/0048-rotate-image",
     "leetcode/0054-spiral-matrix",
     "leetcode/0073-set-matrix-zeroes",
-    "leetcode/0200-number-of-islands"
+    "leetcode/0200-number-of-islands",
+    "leetcode/0063-unique-paths-ii"
   ],
   "Backtracking": [
     "leetcode/0022-generate-parentheses",

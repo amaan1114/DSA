@@ -33,6 +33,7 @@
     "leetcode/0518-coin-change-ii",
     "leetcode/0462-minimum-moves-to-equal-array-elements-ii",
     "leetcode/0062-unique-paths",
-    "leetcode/3736-minimum-moves-to-equal-array-elements-iii"
+    "leetcode/3736-minimum-moves-to-equal-array-elements-iii",
+    "leetcode/0063-unique-paths-ii"
   ]
 }
