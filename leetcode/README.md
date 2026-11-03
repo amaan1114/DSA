@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**33** problems solved — 5 Easy · 27 Medium · 1 Hard
+**34** problems solved — 6 Easy · 27 Medium · 1 Hard
 
 ## Contents
 
@@ -47,10 +47,11 @@
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy | Math, Dynamic Programming, Memoization |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | Array, Greedy, Sorting, Counting Sort |
+| 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | Array, Math |
 
 ## By Difficulty
 
-### Easy (5)
+### Easy (6)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -59,6 +60,7 @@
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Array, Dynamic Programming |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
+| 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Array, Math |
 
 ### Medium (27)
 
@@ -101,7 +103,7 @@
 ## By Topic
 
 <details>
-<summary>Array (21)</summary>
+<summary>Array (22)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -126,6 +128,7 @@
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
+| 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy |
 
 </details>
 
@@ -330,7 +333,7 @@
 </details>
 
 <details>
-<summary>Math (7)</summary>
+<summary>Math (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -341,6 +344,7 @@
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy |
+| 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy |
 
 </details>
 
@@ -474,7 +478,7 @@
 ## By Language
 
 <details>
-<summary>python3 (33)</summary>
+<summary>python3 (34)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -511,6 +515,7 @@
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
+| 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy |
 
 </details>
 
@@ -518,6 +523,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | 2026-11-03 |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-02 |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | 2026-11-02 |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | 2026-11-02 |
@@ -532,4 +538,3 @@
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | 2026-10-26 |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy | 2026-10-26 |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy | 2026-10-26 |
-| 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium | 2026-10-26 |

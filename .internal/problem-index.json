@@ -468,5 +468,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-02T08:05:42.575Z"
+  },
+  {
+    "folderId": "leetcode/3736-minimum-moves-to-equal-array-elements-iii",
+    "frontendId": "3736",
+    "title": "Minimum Moves to Equal Array Elements III",
+    "slug": "minimum-moves-to-equal-array-elements-iii",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Math"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-03T03:45:26.477Z"
   }
 ]
