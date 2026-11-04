@@ -41,7 +41,8 @@
     "leetcode/0022-generate-parentheses",
     "leetcode/0049-group-anagrams",
     "leetcode/0567-permutation-in-string",
-    "leetcode/0763-partition-labels"
+    "leetcode/0763-partition-labels",
+    "leetcode/0072-edit-distance"
   ],
   "Dynamic Programming": [
     "leetcode/0005-longest-palindromic-substring",
@@ -52,7 +53,8 @@
     "leetcode/0746-min-cost-climbing-stairs",
     "leetcode/0518-coin-change-ii",
     "leetcode/0062-unique-paths",
-    "leetcode/0063-unique-paths-ii"
+    "leetcode/0063-unique-paths-ii",
+    "leetcode/0072-edit-distance"
   ],
   "Manacher": [
     "leetcode/0005-longest-palindromic-substring"

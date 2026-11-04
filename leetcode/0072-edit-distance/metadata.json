@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "72",
+  "frontendId": "72",
+  "title": "Edit Distance",
+  "slug": "edit-distance",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "45 ms",
+  "memory": "26.8 MB",
+  "submissionId": "2189210315",
+  "acceptedAt": "2026-11-04T08:32:23.470Z",
+  "updatedAt": "2026-11-04T08:32:24.321Z",
+  "url": "https://leetcode.com/problems/edit-distance/",
+  "version": 1
+}

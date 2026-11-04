@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**36** problems solved — 6 Easy · 29 Medium · 1 Hard
+**37** problems solved — 6 Easy · 30 Medium · 1 Hard
 
 ## Contents
 
@@ -32,6 +32,7 @@
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | Math, Dynamic Programming, Combinatorics |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | Array, Dynamic Programming, Matrix |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy | Array, Math |
+| 0072 | [Edit Distance](0072-edit-distance/README.md) | Medium | String, Dynamic Programming |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium | Array, Hash Table, Matrix |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
@@ -64,7 +65,7 @@
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Array, Math |
 
-### Medium (29)
+### Medium (30)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -84,6 +85,7 @@
 | 0055 | [Jump Game](0055-jump-game/README.md) | Array, Dynamic Programming, Greedy |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Math, Dynamic Programming, Combinatorics |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Array, Dynamic Programming, Matrix |
+| 0072 | [Edit Distance](0072-edit-distance/README.md) | String, Dynamic Programming |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Array, Hash Table, Matrix |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Array, Greedy, Sorting |
@@ -251,7 +253,7 @@
 </details>
 
 <details>
-<summary>Dynamic Programming (9)</summary>
+<summary>Dynamic Programming (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -261,6 +263,7 @@
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
+| 0072 | [Edit Distance](0072-edit-distance/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy |
@@ -422,13 +425,14 @@
 </details>
 
 <details>
-<summary>String (5)</summary>
+<summary>String (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium |
 | 0022 | [Generate Parentheses](0022-generate-parentheses/README.md) | Medium |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
+| 0072 | [Edit Distance](0072-edit-distance/README.md) | Medium |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
 | 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium |
 
@@ -489,7 +493,7 @@
 ## By Language
 
 <details>
-<summary>python3 (36)</summary>
+<summary>python3 (37)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -511,6 +515,7 @@
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
+| 0072 | [Edit Distance](0072-edit-distance/README.md) | Medium |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
@@ -536,6 +541,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0072 | [Edit Distance](0072-edit-distance/README.md) | Medium | 2026-11-04 |
 | 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium | 2026-11-03 |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | 2026-11-03 |
@@ -550,4 +556,3 @@
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | 2026-10-27 |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | 2026-10-27 |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | 2026-10-26 |
-| 0055 | [Jump Game](0055-jump-game/README.md) | Medium | 2026-10-26 |
