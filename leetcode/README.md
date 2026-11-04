@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**37** problems solved — 6 Easy · 30 Medium · 1 Hard
+**38** problems solved — 6 Easy · 31 Medium · 1 Hard
 
 ## Contents
 
@@ -34,6 +34,7 @@
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy | Array, Math |
 | 0072 | [Edit Distance](0072-edit-distance/README.md) | Medium | String, Dynamic Programming |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium | Array, Hash Table, Matrix |
+| 0074 | [Search a 2D Matrix](0074-search-a-2d-matrix/README.md) | Medium | Array, Binary Search, Matrix |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | Array, Math, Sorting |
@@ -65,7 +66,7 @@
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Array, Math |
 
-### Medium (30)
+### Medium (31)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -87,6 +88,7 @@
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Array, Dynamic Programming, Matrix |
 | 0072 | [Edit Distance](0072-edit-distance/README.md) | String, Dynamic Programming |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Array, Hash Table, Matrix |
+| 0074 | [Search a 2D Matrix](0074-search-a-2d-matrix/README.md) | Array, Binary Search, Matrix |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Array, Greedy, Sorting |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Array, Math, Sorting |
@@ -109,7 +111,7 @@
 ## By Topic
 
 <details>
-<summary>Array (23)</summary>
+<summary>Array (24)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -127,6 +129,7 @@
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium |
+| 0074 | [Search a 2D Matrix](0074-search-a-2d-matrix/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium |
@@ -152,11 +155,12 @@
 </details>
 
 <details>
-<summary>Binary Search (1)</summary>
+<summary>Binary Search (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0004 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Hard |
+| 0074 | [Search a 2D Matrix](0074-search-a-2d-matrix/README.md) | Medium |
 
 </details>
 
@@ -360,7 +364,7 @@
 </details>
 
 <details>
-<summary>Matrix (7)</summary>
+<summary>Matrix (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -369,6 +373,7 @@
 | 0054 | [Spiral Matrix](0054-spiral-matrix/README.md) | Medium |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium |
+| 0074 | [Search a 2D Matrix](0074-search-a-2d-matrix/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 
@@ -493,7 +498,7 @@
 ## By Language
 
 <details>
-<summary>python3 (37)</summary>
+<summary>python3 (38)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -517,6 +522,7 @@
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
 | 0072 | [Edit Distance](0072-edit-distance/README.md) | Medium |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium |
+| 0074 | [Search a 2D Matrix](0074-search-a-2d-matrix/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium |
@@ -541,6 +547,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0074 | [Search a 2D Matrix](0074-search-a-2d-matrix/README.md) | Medium | 2026-11-04 |
 | 0072 | [Edit Distance](0072-edit-distance/README.md) | Medium | 2026-11-04 |
 | 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium | 2026-11-03 |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
@@ -555,4 +562,3 @@
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium | 2026-10-28 |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | 2026-10-27 |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | 2026-10-27 |
-| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | 2026-10-26 |

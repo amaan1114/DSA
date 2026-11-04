@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "74",
+  "frontendId": "74",
+  "title": "Search a 2D Matrix",
+  "slug": "search-a-2d-matrix",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Matrix"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19.5 MB",
+  "submissionId": "2189359782",
+  "acceptedAt": "2026-11-04T13:15:07.334Z",
+  "updatedAt": "2026-11-04T13:15:08.566Z",
+  "url": "https://leetcode.com/problems/search-a-2d-matrix/",
+  "version": 1
+}

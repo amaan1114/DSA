@@ -22,10 +22,12 @@
     "leetcode/0518-coin-change-ii",
     "leetcode/0462-minimum-moves-to-equal-array-elements-ii",
     "leetcode/3736-minimum-moves-to-equal-array-elements-iii",
-    "leetcode/0063-unique-paths-ii"
+    "leetcode/0063-unique-paths-ii",
+    "leetcode/0074-search-a-2d-matrix"
   ],
   "Binary Search": [
-    "leetcode/0004-median-of-two-sorted-arrays"
+    "leetcode/0004-median-of-two-sorted-arrays",
+    "leetcode/0074-search-a-2d-matrix"
   ],
   "Divide and Conquer": [
     "leetcode/0004-median-of-two-sorted-arrays"
@@ -111,7 +113,8 @@
     "leetcode/0054-spiral-matrix",
     "leetcode/0073-set-matrix-zeroes",
     "leetcode/0200-number-of-islands",
-    "leetcode/0063-unique-paths-ii"
+    "leetcode/0063-unique-paths-ii",
+    "leetcode/0074-search-a-2d-matrix"
   ],
   "Backtracking": [
     "leetcode/0022-generate-parentheses",
