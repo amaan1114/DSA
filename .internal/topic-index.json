@@ -23,7 +23,8 @@
     "leetcode/0462-minimum-moves-to-equal-array-elements-ii",
     "leetcode/3736-minimum-moves-to-equal-array-elements-iii",
     "leetcode/0063-unique-paths-ii",
-    "leetcode/0074-search-a-2d-matrix"
+    "leetcode/0074-search-a-2d-matrix",
+    "leetcode/0078-subsets"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays",
@@ -120,7 +121,8 @@
     "leetcode/0022-generate-parentheses",
     "leetcode/0039-combination-sum",
     "leetcode/0040-combination-sum-ii",
-    "leetcode/0046-permutations"
+    "leetcode/0046-permutations",
+    "leetcode/0078-subsets"
   ],
   "Bracket Sequences": [
     "leetcode/0022-generate-parentheses"
@@ -185,5 +187,8 @@
   ],
   "Combinatorics": [
     "leetcode/0062-unique-paths"
+  ],
+  "Bit Manipulation": [
+    "leetcode/0078-subsets"
   ]
 }

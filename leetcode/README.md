@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**38** problems solved — 6 Easy · 31 Medium · 1 Hard
+**39** problems solved — 6 Easy · 32 Medium · 1 Hard
 
 ## Contents
 
@@ -35,6 +35,7 @@
 | 0072 | [Edit Distance](0072-edit-distance/README.md) | Medium | String, Dynamic Programming |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium | Array, Hash Table, Matrix |
 | 0074 | [Search a 2D Matrix](0074-search-a-2d-matrix/README.md) | Medium | Array, Binary Search, Matrix |
+| 0078 | [Subsets](0078-subsets/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | Array, Math, Sorting |
@@ -66,7 +67,7 @@
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Array, Math |
 
-### Medium (31)
+### Medium (32)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -89,6 +90,7 @@
 | 0072 | [Edit Distance](0072-edit-distance/README.md) | String, Dynamic Programming |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Array, Hash Table, Matrix |
 | 0074 | [Search a 2D Matrix](0074-search-a-2d-matrix/README.md) | Array, Binary Search, Matrix |
+| 0078 | [Subsets](0078-subsets/README.md) | Array, Backtracking, Bit Manipulation |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Array, Greedy, Sorting |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Array, Math, Sorting |
@@ -111,7 +113,7 @@
 ## By Topic
 
 <details>
-<summary>Array (24)</summary>
+<summary>Array (25)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -130,6 +132,7 @@
 | 0066 | [Plus One](0066-plus-one/README.md) | Easy |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium |
 | 0074 | [Search a 2D Matrix](0074-search-a-2d-matrix/README.md) | Medium |
+| 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium |
@@ -143,7 +146,7 @@
 </details>
 
 <details>
-<summary>Backtracking (4)</summary>
+<summary>Backtracking (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -151,6 +154,7 @@
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 | 0040 | [Combination Sum II](0040-combination-sum-ii/README.md) | Medium |
 | 0046 | [Permutations](0046-permutations/README.md) | Medium |
+| 0078 | [Subsets](0078-subsets/README.md) | Medium |
 
 </details>
 
@@ -173,6 +177,15 @@
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
 | 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Bit Manipulation (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0078 | [Subsets](0078-subsets/README.md) | Medium |
 
 </details>
 
@@ -498,7 +511,7 @@
 ## By Language
 
 <details>
-<summary>python3 (38)</summary>
+<summary>python3 (39)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -523,6 +536,7 @@
 | 0072 | [Edit Distance](0072-edit-distance/README.md) | Medium |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium |
 | 0074 | [Search a 2D Matrix](0074-search-a-2d-matrix/README.md) | Medium |
+| 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium |
@@ -547,6 +561,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0078 | [Subsets](0078-subsets/README.md) | Medium | 2026-11-06 |
 | 0074 | [Search a 2D Matrix](0074-search-a-2d-matrix/README.md) | Medium | 2026-11-04 |
 | 0072 | [Edit Distance](0072-edit-distance/README.md) | Medium | 2026-11-04 |
 | 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium | 2026-11-03 |
@@ -561,4 +576,3 @@
 | 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium | 2026-10-28 |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium | 2026-10-28 |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | 2026-10-27 |
-| 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | 2026-10-27 |

@@ -37,6 +37,7 @@
     "leetcode/0063-unique-paths-ii",
     "leetcode/2583-kth-largest-sum-in-a-binary-tree",
     "leetcode/0072-edit-distance",
-    "leetcode/0074-search-a-2d-matrix"
+    "leetcode/0074-search-a-2d-matrix",
+    "leetcode/0078-subsets"
   ]
 }
