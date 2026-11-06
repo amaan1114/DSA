@@ -551,5 +551,21 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-06T06:41:18.504Z"
+  },
+  {
+    "folderId": "leetcode/0079-word-search",
+    "frontendId": "79",
+    "title": "Word Search",
+    "slug": "word-search",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-06T07:00:26.678Z"
   }
 ]

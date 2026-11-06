@@ -24,7 +24,8 @@
     "leetcode/3736-minimum-moves-to-equal-array-elements-iii",
     "leetcode/0063-unique-paths-ii",
     "leetcode/0074-search-a-2d-matrix",
-    "leetcode/0078-subsets"
+    "leetcode/0078-subsets",
+    "leetcode/0079-word-search"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays",
@@ -45,7 +46,8 @@
     "leetcode/0049-group-anagrams",
     "leetcode/0567-permutation-in-string",
     "leetcode/0763-partition-labels",
-    "leetcode/0072-edit-distance"
+    "leetcode/0072-edit-distance",
+    "leetcode/0079-word-search"
   ],
   "Dynamic Programming": [
     "leetcode/0005-longest-palindromic-substring",
@@ -83,7 +85,8 @@
     "leetcode/0543-diameter-of-binary-tree",
     "leetcode/0572-subtree-of-another-tree",
     "leetcode/0547-number-of-provinces",
-    "leetcode/0200-number-of-islands"
+    "leetcode/0200-number-of-islands",
+    "leetcode/0079-word-search"
   ],
   "Breadth-First Search": [
     "leetcode/1448-count-good-nodes-in-binary-tree",
@@ -115,14 +118,16 @@
     "leetcode/0073-set-matrix-zeroes",
     "leetcode/0200-number-of-islands",
     "leetcode/0063-unique-paths-ii",
-    "leetcode/0074-search-a-2d-matrix"
+    "leetcode/0074-search-a-2d-matrix",
+    "leetcode/0079-word-search"
   ],
   "Backtracking": [
     "leetcode/0022-generate-parentheses",
     "leetcode/0039-combination-sum",
     "leetcode/0040-combination-sum-ii",
     "leetcode/0046-permutations",
-    "leetcode/0078-subsets"
+    "leetcode/0078-subsets",
+    "leetcode/0079-word-search"
   ],
   "Bracket Sequences": [
     "leetcode/0022-generate-parentheses"

@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "problemId": "79",
+  "frontendId": "79",
+  "title": "Word Search",
+  "slug": "word-search",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Backtracking",
+    "Depth-First Search",
+    "Matrix"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "4955 ms",
+  "memory": "19.3 MB",
+  "submissionId": "2190546377",
+  "acceptedAt": "2026-11-06T07:00:26.678Z",
+  "updatedAt": "2026-11-06T07:00:27.845Z",
+  "url": "https://leetcode.com/problems/word-search/",
+  "version": 1
+}
