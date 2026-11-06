@@ -1,5 +1,5 @@
 # Runtime: 0 ms
-# Memory: 19.1 MB
+# Memory: 19.2 MB
 
 class Solution:
     def subsetsWithDup(self, nums: list[int]) -> list[list[int]]:
