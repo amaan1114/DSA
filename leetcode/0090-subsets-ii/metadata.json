@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "90",
+  "frontendId": "90",
+  "title": "Subsets II",
+  "slug": "subsets-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19.1 MB",
+  "submissionId": "2190550300",
+  "acceptedAt": "2026-11-06T07:07:53.890Z",
+  "updatedAt": "2026-11-06T07:07:55.108Z",
+  "url": "https://leetcode.com/problems/subsets-ii/",
+  "version": 1
+}
