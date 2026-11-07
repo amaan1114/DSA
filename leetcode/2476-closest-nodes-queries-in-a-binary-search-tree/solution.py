@@ -1,10 +1,8 @@
-# Runtime: 159 ms
-# Memory: 82.5 MB
-
-from bisect import bisect_left
+# Runtime: 449 ms
+# Memory: 83.9 MB
 
 class Solution:
-    def closestNodes(self, root, queries):
+    def closestNodes(self, root: TreeNode | None, queries: list[int]) -> list[list[int]]:
         nums = []
 
         def inorder(node):
@@ -20,14 +18,24 @@ class Solution:
         ans = []
 
         for q in queries:
-            i = bisect_left(nums, q)
+            left, right = 0, len(nums) - 1
+            mini, maxi = -1, -1
 
-            if i < len(nums) and nums[i] == q:
-                ans.append([q, q])
-            else:
-                mini = nums[i - 1] if i > 0 else -1
-                maxi = nums[i] if i < len(nums) else -1
+            while left <= right:
+                mid = (left + right) // 2
 
-                ans.append([mini, maxi])
+                if nums[mid] == q:
+                    mini = maxi = nums[mid]
+                    break
+
+                elif nums[mid] < q:
+                    mini = nums[mid]
+                    left = mid + 1
+
+                else:
+                    maxi = nums[mid]
+                    right = mid - 1
+
+            ans.append([mini, maxi])
 
         return ans

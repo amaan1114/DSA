@@ -15,11 +15,11 @@
   ],
   "companyTags": [],
   "language": "python3",
-  "runtime": "159 ms",
-  "memory": "82.5 MB",
-  "submissionId": "2191083177",
-  "acceptedAt": "2026-11-07T05:28:58.857Z",
-  "updatedAt": "2026-11-07T05:28:59.909Z",
+  "runtime": "449 ms",
+  "memory": "83.9 MB",
+  "submissionId": "2191083596",
+  "acceptedAt": "2026-11-07T05:30:00.870Z",
+  "updatedAt": "2026-11-07T05:30:01.815Z",
   "url": "https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/",
-  "version": 1
+  "version": 2
 }
