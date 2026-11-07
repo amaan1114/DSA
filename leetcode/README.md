@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**41** problems solved — 6 Easy · 34 Medium · 1 Hard
+**42** problems solved — 6 Easy · 35 Medium · 1 Hard
 
 ## Contents
 
@@ -53,6 +53,7 @@
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy | Math, Dynamic Programming, Memoization |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | Array, Greedy, Sorting, Counting Sort |
+| 2476 | [Closest Nodes Queries in a Binary Search Tree](2476-closest-nodes-queries-in-a-binary-search-tree/README.md) | Medium | Array, Binary Search, Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium | Tree, Breadth-First Search, Sorting, Binary Tree |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | Array, Math |
 
@@ -69,7 +70,7 @@
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Array, Math |
 
-### Medium (34)
+### Medium (35)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -106,6 +107,7 @@
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Array, Greedy, Sorting, Counting Sort |
+| 2476 | [Closest Nodes Queries in a Binary Search Tree](2476-closest-nodes-queries-in-a-binary-search-tree/README.md) | Array, Binary Search, Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Tree, Breadth-First Search, Sorting, Binary Tree |
 
 ### Hard (1)
@@ -117,7 +119,7 @@
 ## By Topic
 
 <details>
-<summary>Array (27)</summary>
+<summary>Array (28)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -147,6 +149,7 @@
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
+| 2476 | [Closest Nodes Queries in a Binary Search Tree](2476-closest-nodes-queries-in-a-binary-search-tree/README.md) | Medium |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy |
 
 </details>
@@ -167,23 +170,34 @@
 </details>
 
 <details>
-<summary>Binary Search (2)</summary>
+<summary>Binary Search (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0004 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Hard |
 | 0074 | [Search a 2D Matrix](0074-search-a-2d-matrix/README.md) | Medium |
+| 2476 | [Closest Nodes Queries in a Binary Search Tree](2476-closest-nodes-queries-in-a-binary-search-tree/README.md) | Medium |
 
 </details>
 
 <details>
-<summary>Binary Tree (4)</summary>
+<summary>Binary Search Tree (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 2476 | [Closest Nodes Queries in a Binary Search Tree](2476-closest-nodes-queries-in-a-binary-search-tree/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Binary Tree (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
+| 2476 | [Closest Nodes Queries in a Binary Search Tree](2476-closest-nodes-queries-in-a-binary-search-tree/README.md) | Medium |
 | 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium |
 
 </details>
@@ -248,7 +262,7 @@
 </details>
 
 <details>
-<summary>Depth-First Search (6)</summary>
+<summary>Depth-First Search (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -258,6 +272,7 @@
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
+| 2476 | [Closest Nodes Queries in a Binary Search Tree](2476-closest-nodes-queries-in-a-binary-search-tree/README.md) | Medium |
 
 </details>
 
@@ -487,13 +502,14 @@
 </details>
 
 <details>
-<summary>Tree (4)</summary>
+<summary>Tree (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
+| 2476 | [Closest Nodes Queries in a Binary Search Tree](2476-closest-nodes-queries-in-a-binary-search-tree/README.md) | Medium |
 | 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium |
 
 </details>
@@ -523,7 +539,7 @@
 ## By Language
 
 <details>
-<summary>python3 (41)</summary>
+<summary>python3 (42)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -566,6 +582,7 @@
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
+| 2476 | [Closest Nodes Queries in a Binary Search Tree](2476-closest-nodes-queries-in-a-binary-search-tree/README.md) | Medium |
 | 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy |
 
@@ -575,6 +592,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2476 | [Closest Nodes Queries in a Binary Search Tree](2476-closest-nodes-queries-in-a-binary-search-tree/README.md) | Medium | 2026-11-07 |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | 2026-11-06 |
 | 0079 | [Word Search](0079-word-search/README.md) | Medium | 2026-11-06 |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | 2026-11-06 |
@@ -589,4 +607,3 @@
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | 2026-10-31 |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | 2026-10-29 |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | 2026-10-29 |
-| 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium | 2026-10-28 |

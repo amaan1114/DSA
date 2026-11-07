@@ -1,0 +1,25 @@
+{
+  "platform": "leetcode",
+  "problemId": "2567",
+  "frontendId": "2476",
+  "title": "Closest Nodes Queries in a Binary Search Tree",
+  "slug": "closest-nodes-queries-in-a-binary-search-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "159 ms",
+  "memory": "82.5 MB",
+  "submissionId": "2191083177",
+  "acceptedAt": "2026-11-07T05:28:58.857Z",
+  "updatedAt": "2026-11-07T05:28:59.909Z",
+  "url": "https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/",
+  "version": 1
+}

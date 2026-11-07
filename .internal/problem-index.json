@@ -581,5 +581,22 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-06T07:08:17.558Z"
+  },
+  {
+    "folderId": "leetcode/2476-closest-nodes-queries-in-a-binary-search-tree",
+    "frontendId": "2476",
+    "title": "Closest Nodes Queries in a Binary Search Tree",
+    "slug": "closest-nodes-queries-in-a-binary-search-tree",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-07T05:28:58.857Z"
   }
 ]
