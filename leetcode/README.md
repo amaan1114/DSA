@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**42** problems solved — 6 Easy · 35 Medium · 1 Hard
+**43** problems solved — 6 Easy · 36 Medium · 1 Hard
 
 ## Contents
 
@@ -38,6 +38,7 @@
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0079 | [Word Search](0079-word-search/README.md) | Medium | Array, String, Backtracking, Depth-First Search, Matrix |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | Array, Backtracking, Bit Manipulation |
+| 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | String, Dynamic Programming |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | Array, Math, Sorting |
@@ -70,7 +71,7 @@
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Array, Math |
 
-### Medium (35)
+### Medium (36)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -96,6 +97,7 @@
 | 0078 | [Subsets](0078-subsets/README.md) | Array, Backtracking, Bit Manipulation |
 | 0079 | [Word Search](0079-word-search/README.md) | Array, String, Backtracking, Depth-First Search, Matrix |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Array, Backtracking, Bit Manipulation |
+| 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Array, Greedy, Sorting |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Array, Math, Sorting |
@@ -295,7 +297,7 @@
 </details>
 
 <details>
-<summary>Dynamic Programming (10)</summary>
+<summary>Dynamic Programming (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -306,6 +308,7 @@
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0072 | [Edit Distance](0072-edit-distance/README.md) | Medium |
+| 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy |
@@ -469,7 +472,7 @@
 </details>
 
 <details>
-<summary>String (7)</summary>
+<summary>String (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -478,6 +481,7 @@
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0072 | [Edit Distance](0072-edit-distance/README.md) | Medium |
 | 0079 | [Word Search](0079-word-search/README.md) | Medium |
+| 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
 | 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium |
 
@@ -539,7 +543,7 @@
 ## By Language
 
 <details>
-<summary>python3 (42)</summary>
+<summary>python3 (43)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -567,6 +571,7 @@
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0079 | [Word Search](0079-word-search/README.md) | Medium |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
+| 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium |
@@ -592,6 +597,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | 2026-11-08 |
 | 2476 | [Closest Nodes Queries in a Binary Search Tree](2476-closest-nodes-queries-in-a-binary-search-tree/README.md) | Medium | 2026-11-07 |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | 2026-11-06 |
 | 0079 | [Word Search](0079-word-search/README.md) | Medium | 2026-11-06 |
@@ -606,4 +612,3 @@
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | 2026-11-02 |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | 2026-10-31 |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | 2026-10-29 |
-| 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | 2026-10-29 |

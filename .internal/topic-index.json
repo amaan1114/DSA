@@ -50,7 +50,8 @@
     "leetcode/0567-permutation-in-string",
     "leetcode/0763-partition-labels",
     "leetcode/0072-edit-distance",
-    "leetcode/0079-word-search"
+    "leetcode/0079-word-search",
+    "leetcode/0091-decode-ways"
   ],
   "Dynamic Programming": [
     "leetcode/0005-longest-palindromic-substring",
@@ -62,7 +63,8 @@
     "leetcode/0518-coin-change-ii",
     "leetcode/0062-unique-paths",
     "leetcode/0063-unique-paths-ii",
-    "leetcode/0072-edit-distance"
+    "leetcode/0072-edit-distance",
+    "leetcode/0091-decode-ways"
   ],
   "Manacher": [
     "leetcode/0005-longest-palindromic-substring"
