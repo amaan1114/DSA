@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**43** problems solved — 6 Easy · 36 Medium · 1 Hard
+**44** problems solved — 6 Easy · 37 Medium · 1 Hard
 
 ## Contents
 
@@ -54,6 +54,7 @@
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy | Math, Dynamic Programming, Memoization |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | Array, Greedy, Sorting, Counting Sort |
+| 2013 | [Detect Squares](2013-detect-squares/README.md) | Medium | Array, Hash Table, Design, Counting, Data Stream |
 | 2476 | [Closest Nodes Queries in a Binary Search Tree](2476-closest-nodes-queries-in-a-binary-search-tree/README.md) | Medium | Array, Binary Search, Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium | Tree, Breadth-First Search, Sorting, Binary Tree |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | Array, Math |
@@ -71,7 +72,7 @@
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Array, Math |
 
-### Medium (36)
+### Medium (37)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -109,6 +110,7 @@
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Array, Greedy, Sorting, Counting Sort |
+| 2013 | [Detect Squares](2013-detect-squares/README.md) | Array, Hash Table, Design, Counting, Data Stream |
 | 2476 | [Closest Nodes Queries in a Binary Search Tree](2476-closest-nodes-queries-in-a-binary-search-tree/README.md) | Array, Binary Search, Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Tree, Breadth-First Search, Sorting, Binary Tree |
 
@@ -121,7 +123,7 @@
 ## By Topic
 
 <details>
-<summary>Array (28)</summary>
+<summary>Array (29)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -151,6 +153,7 @@
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
+| 2013 | [Detect Squares](2013-detect-squares/README.md) | Medium |
 | 2476 | [Closest Nodes Queries in a Binary Search Tree](2476-closest-nodes-queries-in-a-binary-search-tree/README.md) | Medium |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy |
 
@@ -255,11 +258,29 @@
 </details>
 
 <details>
+<summary>Counting (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 2013 | [Detect Squares](2013-detect-squares/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Counting Sort (1)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Data Stream (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 2013 | [Detect Squares](2013-detect-squares/README.md) | Medium |
 
 </details>
 
@@ -275,6 +296,15 @@
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
 | 2476 | [Closest Nodes Queries in a Binary Search Tree](2476-closest-nodes-queries-in-a-binary-search-tree/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Design (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 2013 | [Detect Squares](2013-detect-squares/README.md) | Medium |
 
 </details>
 
@@ -349,7 +379,7 @@
 </details>
 
 <details>
-<summary>Hash Table (5)</summary>
+<summary>Hash Table (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -358,6 +388,7 @@
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
 | 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium |
+| 2013 | [Detect Squares](2013-detect-squares/README.md) | Medium |
 
 </details>
 
@@ -543,7 +574,7 @@
 ## By Language
 
 <details>
-<summary>python3 (43)</summary>
+<summary>python3 (44)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -587,6 +618,7 @@
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
+| 2013 | [Detect Squares](2013-detect-squares/README.md) | Medium |
 | 2476 | [Closest Nodes Queries in a Binary Search Tree](2476-closest-nodes-queries-in-a-binary-search-tree/README.md) | Medium |
 | 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy |
@@ -597,6 +629,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2013 | [Detect Squares](2013-detect-squares/README.md) | Medium | 2026-11-09 |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | 2026-11-08 |
 | 2476 | [Closest Nodes Queries in a Binary Search Tree](2476-closest-nodes-queries-in-a-binary-search-tree/README.md) | Medium | 2026-11-07 |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | 2026-11-06 |
@@ -611,4 +644,3 @@
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | 2026-11-02 |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | 2026-11-02 |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | 2026-10-31 |
-| 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | 2026-10-29 |

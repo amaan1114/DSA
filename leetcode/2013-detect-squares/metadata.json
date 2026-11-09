@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "problemId": "2139",
+  "frontendId": "2013",
+  "title": "Detect Squares",
+  "slug": "detect-squares",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Design",
+    "Counting",
+    "Data Stream"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "122 ms",
+  "memory": "21 MB",
+  "submissionId": "2192270589",
+  "acceptedAt": "2026-11-09T05:33:30.432Z",
+  "updatedAt": "2026-11-09T05:33:31.811Z",
+  "url": "https://leetcode.com/problems/detect-squares/",
+  "version": 1
+}

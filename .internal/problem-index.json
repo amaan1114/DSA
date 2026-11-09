@@ -611,5 +611,21 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-08T14:29:09.894Z"
+  },
+  {
+    "folderId": "leetcode/2013-detect-squares",
+    "frontendId": "2013",
+    "title": "Detect Squares",
+    "slug": "detect-squares",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Design",
+      "Counting",
+      "Data Stream"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-09T05:33:30.432Z"
   }
 ]
