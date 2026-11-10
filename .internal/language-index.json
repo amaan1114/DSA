@@ -43,6 +43,7 @@
     "leetcode/0090-subsets-ii",
     "leetcode/2476-closest-nodes-queries-in-a-binary-search-tree",
     "leetcode/0091-decode-ways",
-    "leetcode/2013-detect-squares"
+    "leetcode/2013-detect-squares",
+    "leetcode/0098-validate-binary-search-tree"
   ]
 }

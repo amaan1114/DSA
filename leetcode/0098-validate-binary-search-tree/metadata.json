@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "98",
+  "frontendId": "98",
+  "title": "Validate Binary Search Tree",
+  "slug": "validate-binary-search-tree",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "3 ms",
+  "memory": "20.8 MB",
+  "submissionId": "2192942253",
+  "acceptedAt": "2026-11-10T05:54:53.767Z",
+  "updatedAt": "2026-11-10T05:54:54.947Z",
+  "url": "https://leetcode.com/problems/validate-binary-search-tree/",
+  "version": 1
+}

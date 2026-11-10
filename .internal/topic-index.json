@@ -85,7 +85,8 @@
     "leetcode/0543-diameter-of-binary-tree",
     "leetcode/0572-subtree-of-another-tree",
     "leetcode/2583-kth-largest-sum-in-a-binary-tree",
-    "leetcode/2476-closest-nodes-queries-in-a-binary-search-tree"
+    "leetcode/2476-closest-nodes-queries-in-a-binary-search-tree",
+    "leetcode/0098-validate-binary-search-tree"
   ],
   "Depth-First Search": [
     "leetcode/1448-count-good-nodes-in-binary-tree",
@@ -94,7 +95,8 @@
     "leetcode/0547-number-of-provinces",
     "leetcode/0200-number-of-islands",
     "leetcode/0079-word-search",
-    "leetcode/2476-closest-nodes-queries-in-a-binary-search-tree"
+    "leetcode/2476-closest-nodes-queries-in-a-binary-search-tree",
+    "leetcode/0098-validate-binary-search-tree"
   ],
   "Breadth-First Search": [
     "leetcode/1448-count-good-nodes-in-binary-tree",
@@ -108,7 +110,8 @@
     "leetcode/0543-diameter-of-binary-tree",
     "leetcode/0572-subtree-of-another-tree",
     "leetcode/2583-kth-largest-sum-in-a-binary-tree",
-    "leetcode/2476-closest-nodes-queries-in-a-binary-search-tree"
+    "leetcode/2476-closest-nodes-queries-in-a-binary-search-tree",
+    "leetcode/0098-validate-binary-search-tree"
   ],
   "Greedy": [
     "leetcode/0011-container-with-most-water",
@@ -209,7 +212,8 @@
     "leetcode/0090-subsets-ii"
   ],
   "Binary Search Tree": [
-    "leetcode/2476-closest-nodes-queries-in-a-binary-search-tree"
+    "leetcode/2476-closest-nodes-queries-in-a-binary-search-tree",
+    "leetcode/0098-validate-binary-search-tree"
   ],
   "Design": [
     "leetcode/2013-detect-squares"

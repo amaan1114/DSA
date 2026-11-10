@@ -627,5 +627,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-09T05:33:30.432Z"
+  },
+  {
+    "folderId": "leetcode/0098-validate-binary-search-tree",
+    "frontendId": "98",
+    "title": "Validate Binary Search Tree",
+    "slug": "validate-binary-search-tree",
+    "difficulty": "Medium",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-10T05:54:53.767Z"
   }
 ]
