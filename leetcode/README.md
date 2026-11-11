@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**45** problems solved — 6 Easy · 38 Medium · 1 Hard
+**46** problems solved — 6 Easy · 39 Medium · 1 Hard
 
 ## Contents
 
@@ -40,6 +40,7 @@
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | String, Dynamic Programming |
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree/README.md) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | Array, Math, Sorting |
@@ -73,7 +74,7 @@
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Array, Math |
 
-### Medium (38)
+### Medium (39)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -101,6 +102,7 @@
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Array, Backtracking, Bit Manipulation |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree/README.md) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Array, Greedy, Sorting |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Array, Math, Sorting |
@@ -198,11 +200,12 @@
 </details>
 
 <details>
-<summary>Binary Tree (6)</summary>
+<summary>Binary Tree (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree/README.md) | Medium |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
@@ -231,10 +234,11 @@
 </details>
 
 <details>
-<summary>Breadth-First Search (5)</summary>
+<summary>Breadth-First Search (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
@@ -542,11 +546,12 @@
 </details>
 
 <details>
-<summary>Tree (6)</summary>
+<summary>Tree (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree/README.md) | Medium |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Easy |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
@@ -580,7 +585,7 @@
 ## By Language
 
 <details>
-<summary>python3 (45)</summary>
+<summary>python3 (46)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -610,6 +615,7 @@
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree/README.md) | Medium |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium |
@@ -636,6 +642,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | 2026-11-11 |
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree/README.md) | Medium | 2026-11-10 |
 | 2013 | [Detect Squares](2013-detect-squares/README.md) | Medium | 2026-11-09 |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | 2026-11-08 |
@@ -650,4 +657,3 @@
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | 2026-11-03 |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-02 |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | 2026-11-02 |
-| 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | 2026-11-02 |
