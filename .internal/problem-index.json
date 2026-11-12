@@ -656,5 +656,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-11T05:37:40.032Z"
+  },
+  {
+    "folderId": "leetcode/1046-last-stone-weight",
+    "frontendId": "1046",
+    "title": "Last Stone Weight",
+    "slug": "last-stone-weight",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Heap (Priority Queue)"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-12T06:16:48.293Z"
   }
 ]

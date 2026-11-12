@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**46** problems solved — 6 Easy · 39 Medium · 1 Hard
+**47** problems solved — 7 Easy · 39 Medium · 1 Hard
 
 ## Contents
 
@@ -53,6 +53,7 @@
 | 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium | Hash Table, Two Pointers, String, Greedy |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium | Array, Breadth-First Search, Matrix |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
+| 1046 | [Last Stone Weight](1046-last-stone-weight/README.md) | Easy | Array, Heap (Priority Queue) |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy | Math, Dynamic Programming, Memoization |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | Array, Greedy, Sorting, Counting Sort |
@@ -63,7 +64,7 @@
 
 ## By Difficulty
 
-### Easy (6)
+### Easy (7)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -71,6 +72,7 @@
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Tree, Depth-First Search, Binary Tree, DP on Trees |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Array, Dynamic Programming |
+| 1046 | [Last Stone Weight](1046-last-stone-weight/README.md) | Array, Heap (Priority Queue) |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Array, Math |
 
@@ -127,7 +129,7 @@
 ## By Topic
 
 <details>
-<summary>Array (29)</summary>
+<summary>Array (30)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -156,6 +158,7 @@
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
+| 1046 | [Last Stone Weight](1046-last-stone-weight/README.md) | Easy |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 2013 | [Detect Squares](2013-detect-squares/README.md) | Medium |
 | 2476 | [Closest Nodes Queries in a Binary Search Tree](2476-closest-nodes-queries-in-a-binary-search-tree/README.md) | Medium |
@@ -402,6 +405,15 @@
 </details>
 
 <details>
+<summary>Heap (Priority Queue) (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1046 | [Last Stone Weight](1046-last-stone-weight/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>Hungarian Algorithm (1)</summary>
 
 | # | Title | Difficulty |
@@ -585,7 +597,7 @@
 ## By Language
 
 <details>
-<summary>python3 (46)</summary>
+<summary>python3 (47)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -628,6 +640,7 @@
 | 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
+| 1046 | [Last Stone Weight](1046-last-stone-weight/README.md) | Easy |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
@@ -642,6 +655,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1046 | [Last Stone Weight](1046-last-stone-weight/README.md) | Easy | 2026-11-12 |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | 2026-11-11 |
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree/README.md) | Medium | 2026-11-10 |
 | 2013 | [Detect Squares](2013-detect-squares/README.md) | Medium | 2026-11-09 |
@@ -656,4 +670,3 @@
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | 2026-11-03 |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-02 |
-| 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | 2026-11-02 |

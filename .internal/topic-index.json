@@ -28,7 +28,8 @@
     "leetcode/0079-word-search",
     "leetcode/0090-subsets-ii",
     "leetcode/2476-closest-nodes-queries-in-a-binary-search-tree",
-    "leetcode/2013-detect-squares"
+    "leetcode/2013-detect-squares",
+    "leetcode/1046-last-stone-weight"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays",
@@ -226,5 +227,8 @@
   ],
   "Data Stream": [
     "leetcode/2013-detect-squares"
+  ],
+  "Heap (Priority Queue)": [
+    "leetcode/1046-last-stone-weight"
   ]
 }

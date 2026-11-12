@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "1127",
+  "frontendId": "1046",
+  "title": "Last Stone Weight",
+  "slug": "last-stone-weight",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Heap (Priority Queue)"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19.5 MB",
+  "submissionId": "2194387370",
+  "acceptedAt": "2026-11-12T06:16:48.293Z",
+  "updatedAt": "2026-11-12T06:16:49.485Z",
+  "url": "https://leetcode.com/problems/last-stone-weight/",
+  "version": 1
+}
