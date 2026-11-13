@@ -669,5 +669,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-12T06:16:48.293Z"
+  },
+  {
+    "folderId": "leetcode/0121-best-time-to-buy-and-sell-stock",
+    "frontendId": "121",
+    "title": "Best Time to Buy and Sell Stock",
+    "slug": "best-time-to-buy-and-sell-stock",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-13T06:27:55.607Z"
   }
 ]
