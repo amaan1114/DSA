@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**48** problems solved — 8 Easy · 39 Medium · 1 Hard
+**49** problems solved — 8 Easy · 40 Medium · 1 Hard
 
 ## Contents
 
@@ -39,6 +39,7 @@
 | 0079 | [Word Search](0079-word-search/README.md) | Medium | Array, String, Backtracking, Depth-First Search, Matrix |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | String, Dynamic Programming |
+| 0097 | [Interleaving String](0097-interleaving-string/README.md) | Medium | String, Dynamic Programming |
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree/README.md) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy | Array, Dynamic Programming |
@@ -78,7 +79,7 @@
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Array, Math |
 
-### Medium (39)
+### Medium (40)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -105,6 +106,7 @@
 | 0079 | [Word Search](0079-word-search/README.md) | Array, String, Backtracking, Depth-First Search, Matrix |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Array, Backtracking, Bit Manipulation |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
+| 0097 | [Interleaving String](0097-interleaving-string/README.md) | String, Dynamic Programming |
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree/README.md) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Tree, Breadth-First Search, Binary Tree |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
@@ -342,7 +344,7 @@
 </details>
 
 <details>
-<summary>Dynamic Programming (12)</summary>
+<summary>Dynamic Programming (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -354,6 +356,7 @@
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0072 | [Edit Distance](0072-edit-distance/README.md) | Medium |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
+| 0097 | [Interleaving String](0097-interleaving-string/README.md) | Medium |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
@@ -528,7 +531,7 @@
 </details>
 
 <details>
-<summary>String (8)</summary>
+<summary>String (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -538,6 +541,7 @@
 | 0072 | [Edit Distance](0072-edit-distance/README.md) | Medium |
 | 0079 | [Word Search](0079-word-search/README.md) | Medium |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
+| 0097 | [Interleaving String](0097-interleaving-string/README.md) | Medium |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
 | 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium |
 
@@ -601,7 +605,7 @@
 ## By Language
 
 <details>
-<summary>python3 (48)</summary>
+<summary>python3 (49)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -630,6 +634,7 @@
 | 0079 | [Word Search](0079-word-search/README.md) | Medium |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
+| 0097 | [Interleaving String](0097-interleaving-string/README.md) | Medium |
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree/README.md) | Medium |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy |
@@ -660,6 +665,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0097 | [Interleaving String](0097-interleaving-string/README.md) | Medium | 2026-11-16 |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy | 2026-11-13 |
 | 1046 | [Last Stone Weight](1046-last-stone-weight/README.md) | Easy | 2026-11-12 |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | 2026-11-11 |
@@ -674,4 +680,3 @@
 | 0072 | [Edit Distance](0072-edit-distance/README.md) | Medium | 2026-11-04 |
 | 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium | 2026-11-03 |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
-| 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | 2026-11-03 |

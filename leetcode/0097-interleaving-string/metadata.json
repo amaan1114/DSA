@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "97",
+  "frontendId": "97",
+  "title": "Interleaving String",
+  "slug": "interleaving-string",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "4 ms",
+  "memory": "20.2 MB",
+  "submissionId": "2197020390",
+  "acceptedAt": "2026-11-16T04:12:37.299Z",
+  "updatedAt": "2026-11-16T04:12:38.140Z",
+  "url": "https://leetcode.com/problems/interleaving-string/",
+  "version": 1
+}
