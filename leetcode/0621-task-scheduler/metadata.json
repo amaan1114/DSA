@@ -1,0 +1,25 @@
+{
+  "platform": "leetcode",
+  "problemId": "621",
+  "frontendId": "621",
+  "title": "Task Scheduler",
+  "slug": "task-scheduler",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Counting"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "167 ms",
+  "memory": "20.8 MB",
+  "submissionId": "2197731045",
+  "acceptedAt": "2026-11-17T04:38:25.481Z",
+  "updatedAt": "2026-11-17T04:38:26.781Z",
+  "url": "https://leetcode.com/problems/task-scheduler/",
+  "version": 1
+}

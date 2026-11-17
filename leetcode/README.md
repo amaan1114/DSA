@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**49** problems solved — 8 Easy · 40 Medium · 1 Hard
+**50** problems solved — 8 Easy · 41 Medium · 1 Hard
 
 ## Contents
 
@@ -51,6 +51,7 @@
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium | Hash Table, Two Pointers, String, Sliding Window |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function |
+| 0621 | [Task Scheduler](0621-task-scheduler/README.md) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | Array, Dynamic Programming |
 | 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium | Hash Table, Two Pointers, String, Greedy |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium | Array, Breadth-First Search, Matrix |
@@ -79,7 +80,7 @@
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Array, Math |
 
-### Medium (40)
+### Medium (41)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -115,6 +116,7 @@
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Array, Dynamic Programming, Knapsack Problem, Complete Knapsack |
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Hash Table, Two Pointers, String, Sliding Window |
+| 0621 | [Task Scheduler](0621-task-scheduler/README.md) | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting |
 | 0763 | [Partition Labels](0763-partition-labels/README.md) | Hash Table, Two Pointers, String, Greedy |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Array, Breadth-First Search, Matrix |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
@@ -133,7 +135,7 @@
 ## By Topic
 
 <details>
-<summary>Array (31)</summary>
+<summary>Array (32)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -160,6 +162,7 @@
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
+| 0621 | [Task Scheduler](0621-task-scheduler/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
@@ -274,10 +277,11 @@
 </details>
 
 <details>
-<summary>Counting (1)</summary>
+<summary>Counting (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0621 | [Task Scheduler](0621-task-scheduler/README.md) | Medium |
 | 2013 | [Detect Squares](2013-detect-squares/README.md) | Medium |
 
 </details>
@@ -374,7 +378,7 @@
 </details>
 
 <details>
-<summary>Greedy (7)</summary>
+<summary>Greedy (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -382,6 +386,7 @@
 | 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
+| 0621 | [Task Scheduler](0621-task-scheduler/README.md) | Medium |
 | 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
@@ -398,7 +403,7 @@
 </details>
 
 <details>
-<summary>Hash Table (6)</summary>
+<summary>Hash Table (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -406,16 +411,18 @@
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0073 | [Set Matrix Zeroes](0073-set-matrix-zeroes/README.md) | Medium |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
+| 0621 | [Task Scheduler](0621-task-scheduler/README.md) | Medium |
 | 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium |
 | 2013 | [Detect Squares](2013-detect-squares/README.md) | Medium |
 
 </details>
 
 <details>
-<summary>Heap (Priority Queue) (1)</summary>
+<summary>Heap (Priority Queue) (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0621 | [Task Scheduler](0621-task-scheduler/README.md) | Medium |
 | 1046 | [Last Stone Weight](1046-last-stone-weight/README.md) | Easy |
 
 </details>
@@ -517,13 +524,14 @@
 </details>
 
 <details>
-<summary>Sorting (6)</summary>
+<summary>Sorting (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0049 | [Group Anagrams](0049-group-anagrams/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium |
+| 0621 | [Task Scheduler](0621-task-scheduler/README.md) | Medium |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium |
@@ -605,7 +613,7 @@
 ## By Language
 
 <details>
-<summary>python3 (49)</summary>
+<summary>python3 (50)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -646,6 +654,7 @@
 | 0547 | [Number of Provinces](0547-number-of-provinces/README.md) | Medium |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Easy |
+| 0621 | [Task Scheduler](0621-task-scheduler/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium |
 | 0994 | [Rotting Oranges](0994-rotting-oranges/README.md) | Medium |
@@ -665,6 +674,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0621 | [Task Scheduler](0621-task-scheduler/README.md) | Medium | 2026-11-17 |
 | 0097 | [Interleaving String](0097-interleaving-string/README.md) | Medium | 2026-11-16 |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy | 2026-11-13 |
 | 1046 | [Last Stone Weight](1046-last-stone-weight/README.md) | Easy | 2026-11-12 |
@@ -679,4 +689,3 @@
 | 0074 | [Search a 2D Matrix](0074-search-a-2d-matrix/README.md) | Medium | 2026-11-04 |
 | 0072 | [Edit Distance](0072-edit-distance/README.md) | Medium | 2026-11-04 |
 | 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium | 2026-11-03 |
-| 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |

@@ -30,7 +30,8 @@
     "leetcode/2476-closest-nodes-queries-in-a-binary-search-tree",
     "leetcode/2013-detect-squares",
     "leetcode/1046-last-stone-weight",
-    "leetcode/0121-best-time-to-buy-and-sell-stock"
+    "leetcode/0121-best-time-to-buy-and-sell-stock",
+    "leetcode/0621-task-scheduler"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays",
@@ -128,7 +129,8 @@
     "leetcode/1833-maximum-ice-cream-bars",
     "leetcode/1029-two-city-scheduling",
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
-    "leetcode/0763-partition-labels"
+    "leetcode/0763-partition-labels",
+    "leetcode/0621-task-scheduler"
   ],
   "Matrix": [
     "leetcode/0994-rotting-oranges",
@@ -159,7 +161,8 @@
     "leetcode/0567-permutation-in-string",
     "leetcode/0073-set-matrix-zeroes",
     "leetcode/0763-partition-labels",
-    "leetcode/2013-detect-squares"
+    "leetcode/2013-detect-squares",
+    "leetcode/0621-task-scheduler"
   ],
   "Sorting": [
     "leetcode/0049-group-anagrams",
@@ -167,7 +170,8 @@
     "leetcode/1029-two-city-scheduling",
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
     "leetcode/0462-minimum-moves-to-equal-array-elements-ii",
-    "leetcode/2583-kth-largest-sum-in-a-binary-tree"
+    "leetcode/2583-kth-largest-sum-in-a-binary-tree",
+    "leetcode/0621-task-scheduler"
   ],
   "Recursion": [
     "leetcode/0050-powx-n"
@@ -227,12 +231,14 @@
     "leetcode/2013-detect-squares"
   ],
   "Counting": [
-    "leetcode/2013-detect-squares"
+    "leetcode/2013-detect-squares",
+    "leetcode/0621-task-scheduler"
   ],
   "Data Stream": [
     "leetcode/2013-detect-squares"
   ],
   "Heap (Priority Queue)": [
-    "leetcode/1046-last-stone-weight"
+    "leetcode/1046-last-stone-weight",
+    "leetcode/0621-task-scheduler"
   ]
 }

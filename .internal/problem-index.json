@@ -695,5 +695,22 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-16T04:12:37.299Z"
+  },
+  {
+    "folderId": "leetcode/0621-task-scheduler",
+    "frontendId": "621",
+    "title": "Task Scheduler",
+    "slug": "task-scheduler",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-17T04:38:25.481Z"
   }
 ]
