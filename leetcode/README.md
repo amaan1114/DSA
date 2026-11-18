@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**50** problems solved — 8 Easy · 41 Medium · 1 Hard
+**51** problems solved — 9 Easy · 41 Medium · 1 Hard
 
 ## Contents
 
@@ -43,6 +43,7 @@
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree/README.md) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy | Array, Dynamic Programming |
+| 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | Two Pointers, String |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | Array, Math, Sorting |
@@ -67,12 +68,13 @@
 
 ## By Difficulty
 
-### Easy (8)
+### Easy (9)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0066 | [Plus One](0066-plus-one/README.md) | Array, Math |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Array, Dynamic Programming |
+| 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Two Pointers, String |
 | 0543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree/README.md) | Tree, Depth-First Search, Binary Tree, DP on Trees |
 | 0572 | [Subtree of Another Tree](0572-subtree-of-another-tree/README.md) | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Array, Dynamic Programming |
@@ -539,7 +541,7 @@
 </details>
 
 <details>
-<summary>String (9)</summary>
+<summary>String (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -550,6 +552,7 @@
 | 0079 | [Word Search](0079-word-search/README.md) | Medium |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0097 | [Interleaving String](0097-interleaving-string/README.md) | Medium |
+| 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
 | 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium |
 
@@ -589,12 +592,13 @@
 </details>
 
 <details>
-<summary>Two Pointers (4)</summary>
+<summary>Two Pointers (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0005 | [Longest Palindromic Substring](0005-longest-palindromic-substring/README.md) | Medium |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
+| 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0567 | [Permutation in String](0567-permutation-in-string/README.md) | Medium |
 | 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium |
 
@@ -613,7 +617,7 @@
 ## By Language
 
 <details>
-<summary>python3 (50)</summary>
+<summary>python3 (51)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -646,6 +650,7 @@
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree/README.md) | Medium |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy |
+| 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium |
@@ -674,6 +679,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | 2026-11-18 |
 | 0621 | [Task Scheduler](0621-task-scheduler/README.md) | Medium | 2026-11-17 |
 | 0097 | [Interleaving String](0097-interleaving-string/README.md) | Medium | 2026-11-16 |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy | 2026-11-13 |
@@ -688,4 +694,3 @@
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | 2026-11-06 |
 | 0074 | [Search a 2D Matrix](0074-search-a-2d-matrix/README.md) | Medium | 2026-11-04 |
 | 0072 | [Edit Distance](0072-edit-distance/README.md) | Medium | 2026-11-04 |
-| 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Medium | 2026-11-03 |
