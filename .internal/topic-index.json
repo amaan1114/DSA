@@ -31,7 +31,8 @@
     "leetcode/2013-detect-squares",
     "leetcode/1046-last-stone-weight",
     "leetcode/0121-best-time-to-buy-and-sell-stock",
-    "leetcode/0621-task-scheduler"
+    "leetcode/0621-task-scheduler",
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays",
@@ -73,7 +74,8 @@
     "leetcode/0072-edit-distance",
     "leetcode/0091-decode-ways",
     "leetcode/0121-best-time-to-buy-and-sell-stock",
-    "leetcode/0097-interleaving-string"
+    "leetcode/0097-interleaving-string",
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
   ],
   "Manacher": [
     "leetcode/0005-longest-palindromic-substring"
@@ -132,7 +134,8 @@
     "leetcode/1029-two-city-scheduling",
     "leetcode/0452-minimum-number-of-arrows-to-burst-balloons",
     "leetcode/0763-partition-labels",
-    "leetcode/0621-task-scheduler"
+    "leetcode/0621-task-scheduler",
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
   ],
   "Matrix": [
     "leetcode/0994-rotting-oranges",

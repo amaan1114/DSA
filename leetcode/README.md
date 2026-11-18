@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**51** problems solved — 9 Easy · 41 Medium · 1 Hard
+**52** problems solved — 9 Easy · 42 Medium · 1 Hard
 
 ## Contents
 
@@ -43,6 +43,7 @@
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree/README.md) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy | Array, Dynamic Programming |
+| 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | Array, Dynamic Programming, Greedy |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | Two Pointers, String |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
@@ -82,7 +83,7 @@
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Math, Dynamic Programming, Memoization |
 | 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/README.md) | Array, Math |
 
-### Medium (41)
+### Medium (42)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -112,6 +113,7 @@
 | 0097 | [Interleaving String](0097-interleaving-string/README.md) | String, Dynamic Programming |
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree/README.md) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Tree, Breadth-First Search, Binary Tree |
+| 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Array, Dynamic Programming, Greedy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Array, Greedy, Sorting |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Array, Math, Sorting |
@@ -137,7 +139,7 @@
 ## By Topic
 
 <details>
-<summary>Array (32)</summary>
+<summary>Array (33)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -160,6 +162,7 @@
 | 0079 | [Word Search](0079-word-search/README.md) | Medium |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy |
+| 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium |
@@ -350,7 +353,7 @@
 </details>
 
 <details>
-<summary>Dynamic Programming (13)</summary>
+<summary>Dynamic Programming (14)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -364,6 +367,7 @@
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0097 | [Interleaving String](0097-interleaving-string/README.md) | Medium |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy |
+| 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy |
@@ -380,13 +384,14 @@
 </details>
 
 <details>
-<summary>Greedy (8)</summary>
+<summary>Greedy (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0011 | [Container With Most Water](0011-container-with-most-water/README.md) | Medium |
 | 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
+| 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0621 | [Task Scheduler](0621-task-scheduler/README.md) | Medium |
 | 0763 | [Partition Labels](0763-partition-labels/README.md) | Medium |
@@ -617,7 +622,7 @@
 ## By Language
 
 <details>
-<summary>python3 (51)</summary>
+<summary>python3 (52)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -650,6 +655,7 @@
 | 0098 | [Validate Binary Search Tree](0098-validate-binary-search-tree/README.md) | Medium |
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy |
+| 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
@@ -679,6 +685,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | 2026-11-18 |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | 2026-11-18 |
 | 0621 | [Task Scheduler](0621-task-scheduler/README.md) | Medium | 2026-11-17 |
 | 0097 | [Interleaving String](0097-interleaving-string/README.md) | Medium | 2026-11-16 |
@@ -693,4 +700,3 @@
 | 0079 | [Word Search](0079-word-search/README.md) | Medium | 2026-11-06 |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | 2026-11-06 |
 | 0074 | [Search a 2D Matrix](0074-search-a-2d-matrix/README.md) | Medium | 2026-11-04 |
-| 0072 | [Edit Distance](0072-edit-distance/README.md) | Medium | 2026-11-04 |
