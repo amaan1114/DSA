@@ -32,7 +32,8 @@
     "leetcode/1046-last-stone-weight",
     "leetcode/0121-best-time-to-buy-and-sell-stock",
     "leetcode/0621-task-scheduler",
-    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii",
+    "leetcode/0123-best-time-to-buy-and-sell-stock-iii"
   ],
   "Binary Search": [
     "leetcode/0004-median-of-two-sorted-arrays",
@@ -75,7 +76,8 @@
     "leetcode/0091-decode-ways",
     "leetcode/0121-best-time-to-buy-and-sell-stock",
     "leetcode/0097-interleaving-string",
-    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii",
+    "leetcode/0123-best-time-to-buy-and-sell-stock-iii"
   ],
   "Manacher": [
     "leetcode/0005-longest-palindromic-substring"

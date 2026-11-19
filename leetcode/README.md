@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**52** problems solved — 9 Easy · 42 Medium · 1 Hard
+**53** problems solved — 9 Easy · 42 Medium · 2 Hard
 
 ## Contents
 
@@ -44,6 +44,7 @@
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium | Tree, Breadth-First Search, Binary Tree |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy | Array, Dynamic Programming |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | Array, Dynamic Programming, Greedy |
+| 0123 | [Best Time to Buy and Sell Stock III](0123-best-time-to-buy-and-sell-stock-iii/README.md) | Hard | Array, Dynamic Programming |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | Two Pointers, String |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium | Array, Greedy, Sorting |
@@ -130,16 +131,17 @@
 | 2476 | [Closest Nodes Queries in a Binary Search Tree](2476-closest-nodes-queries-in-a-binary-search-tree/README.md) | Array, Binary Search, Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 2583 | [Kth Largest Sum in a Binary Tree](2583-kth-largest-sum-in-a-binary-tree/README.md) | Tree, Breadth-First Search, Sorting, Binary Tree |
 
-### Hard (1)
+### Hard (2)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0004 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Array, Binary Search, Divide and Conquer |
+| 0123 | [Best Time to Buy and Sell Stock III](0123-best-time-to-buy-and-sell-stock-iii/README.md) | Array, Dynamic Programming |
 
 ## By Topic
 
 <details>
-<summary>Array (33)</summary>
+<summary>Array (34)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -163,6 +165,7 @@
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
+| 0123 | [Best Time to Buy and Sell Stock III](0123-best-time-to-buy-and-sell-stock-iii/README.md) | Hard |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
 | 0462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium |
@@ -353,7 +356,7 @@
 </details>
 
 <details>
-<summary>Dynamic Programming (14)</summary>
+<summary>Dynamic Programming (15)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -368,6 +371,7 @@
 | 0097 | [Interleaving String](0097-interleaving-string/README.md) | Medium |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
+| 0123 | [Best Time to Buy and Sell Stock III](0123-best-time-to-buy-and-sell-stock-iii/README.md) | Hard |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number/README.md) | Easy |
@@ -622,7 +626,7 @@
 ## By Language
 
 <details>
-<summary>python3 (52)</summary>
+<summary>python3 (53)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -656,6 +660,7 @@
 | 0102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal/README.md) | Medium |
 | 0121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock/README.md) | Easy |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium |
+| 0123 | [Best Time to Buy and Sell Stock III](0123-best-time-to-buy-and-sell-stock-iii/README.md) | Hard |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy |
 | 0200 | [Number of Islands](0200-number-of-islands/README.md) | Medium |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](0452-minimum-number-of-arrows-to-burst-balloons/README.md) | Medium |
@@ -685,6 +690,7 @@
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0123 | [Best Time to Buy and Sell Stock III](0123-best-time-to-buy-and-sell-stock-iii/README.md) | Hard | 2026-11-19 |
 | 0122 | [Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | 2026-11-18 |
 | 0125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | 2026-11-18 |
 | 0621 | [Task Scheduler](0621-task-scheduler/README.md) | Medium | 2026-11-17 |
@@ -699,4 +705,3 @@
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | 2026-11-06 |
 | 0079 | [Word Search](0079-word-search/README.md) | Medium | 2026-11-06 |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | 2026-11-06 |
-| 0074 | [Search a 2D Matrix](0074-search-a-2d-matrix/README.md) | Medium | 2026-11-04 |

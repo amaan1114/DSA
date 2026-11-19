@@ -51,6 +51,7 @@
     "leetcode/0097-interleaving-string",
     "leetcode/0621-task-scheduler",
     "leetcode/0125-valid-palindrome",
-    "leetcode/0122-best-time-to-buy-and-sell-stock-ii"
+    "leetcode/0122-best-time-to-buy-and-sell-stock-ii",
+    "leetcode/0123-best-time-to-buy-and-sell-stock-iii"
   ]
 }

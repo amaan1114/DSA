@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "123",
+  "frontendId": "123",
+  "title": "Best Time to Buy and Sell Stock III",
+  "slug": "best-time-to-buy-and-sell-stock-iii",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "2600 ms",
+  "memory": "500.6 MB",
+  "submissionId": "2199202868",
+  "acceptedAt": "2026-11-19T08:00:09.016Z",
+  "updatedAt": "2026-11-19T08:00:10.930Z",
+  "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
+  "version": 1
+}
